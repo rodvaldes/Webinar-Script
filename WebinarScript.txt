@@ -1,0 +1,126 @@
+1) Hola muy buenas tardes sean todos muy bienvenidos a nuestro primer Webinar Cybersyn titulado 
+high performance TI con Devops.
+
+Mi nombre es Rodrigo Valdés soy ingeniero civil en informática con 8 años de experiencia trabajando 
+en el Rubro de las Tecnologías de Información, tanto en el sector público, como privado en diversos 
+roles como Desarrollador de Software en Dybox y Chilecompra, Analista de Soporte Técnico en el Global 
+Customer Support Solaris OS en Oracle, Analista de soporte técnico Oracle Session Border Controller 
+(Acme packet).
+
+Soy el co-fundador de nuestra empresa Cybersyn cuyo principal objetivo es ser un referente a nivel 
+mundial como especialistas habilitadores de equipos de tecnologías de información del mas  alto desempeño.
+
+Agenda  (Overview) ( Sebe incluir una imagen de estructura del webinar)
+
+Los temas que analizaremos durante la próxima media hora son los siguientes:
+
+Perspectiva evolutiva de desarrollo de Aplicaciones y Operaciones de tecnologías de información.
+Realidad actual.
+Problemas y conflictos.
+Devops al rescate.
+Conclusiones.
+Q&A
+
+
+"Change is not necessary. survival is not mandatory."
+“El cambio no es necesario. La supervivencia no es obligatoria”. W.H. Demming
+
+
+
+Independiente de nuestra voluntad vivimos inmersos en un entorno de social y económico  caracterizados por ser 
+altamente volátil. La perspectiva de la evolución tanto de la naturaleza como de los humanos nos ha enseñado que 
+aquellos organismos que tienen mayor posibilidad de sobrevivir son aquellos que poseen una mayor habilidad para 
+adaptarse a los cambios del entorno. 
+
+Para las organizaciones no es distinto sobretodo hoy en 2014 en donde experimentamos aceleración de la ciencias 
+y las tecnologías información. En este tipo de entornos la capacidad de innovar es fundamental, así como también 
+tener los procesos apropiados para agilizar la flujo de información en la organización. Es aquí donde un equipo de 
+informática de alto rendimiento que tenga la capacidad de utilizar las tecnologías de información de manera inteligente 
+se convierten en un arma estratégica a la hora de disminuir costos de innovación y de operaciones siempre con el objetivo 
+de aportar el mayor valor en función de los objetivos de  la organización.
+
+
+
+Perspectiva de evolución de  Operaciones TI. 
+
+La palabra devops viene de de dos palabras del idioma inglés que Development y Operations.
+En donde development se refiere a las actividades típicamente asociadas al rol del equipo de desarrollo de software dentro 
+de una organización.
+
+Por otro lado operations vienen de operaciones que corresponde al rol del equipo cuyo objetivo es explotar los recursos 
+informáticos de manera de mantener la continuidad de los servicios críticos de la organización.
+
+
+Para saber dónde vamos debemos saber desde dónde venimos, y así tener una perspectiva de la vertiginosa aceleración 
+y maduración de las tecnologías de información y porqué es necesario considerar la implementación de devops en su 
+organización.  Por lo tanto haremos una breve revisión de la evolución de las actividades ligadas al manejo de 
+infraestructura tecnológica y de aplicaciones.
+
+Al comienza de la era de la computación no había una separación entre las tareas de desarrollo y operación. 
+Las personas que tenían que desarrollar un programa debían saber también como operarla.  
+En los 60 cuando los desarrolladores y analistas dejaron de utilizar tarjetas perforadas para dar 
+paso a los lectores y a los "operadores de computadora”.
+70's minicomputers.
+80's PC’s.  
+Se hacía muy importante tener un equipo especializado en mantener funcionando los cada vez más complejas 
+infraestructuras de tecnologías de Información.
+
+Internet en los 90.´revolucionó tanto la tecnologías de comunicación como la manera de hacer negocio en una 
+nueva economía electrónica globalizada. La velocidad con que evolucionó la red en términos de usuarios generó 
+un gran desafío tanto para desarrolladores como para operaciones. Por un lado Ingeniería de software debía encontrar
+la manera de sustituir las metodología de desarrollo tradicionales para estar a la altura de los nuevos desafíos 
+(Disponibilidad, Performance, Calidad, Seguridad,etc. La implementación de agile  significó un sustantivo avance en 
+cuanto a nuevas metodologías de desarrollo de software Incorporando conceptos como Programación Orientada a Objetos, 
+Test Driven Development, Design Patterns, Continuous Integration.
+
+Web 2.0. Con el advenimiento de la Web 2.0 se facilita el acceso masivo del publico general para 
+la generación de contenido. Generando así un nuevo desafío para los equipos informáticos con la tarea 
+de desarrollar sistemas mas complejos capaces de escalar en performance de manera automática en caso 
+de presentarse una peak de usuarios.
+
+Actualmente la masificación actual de los dispositivos móviles de alto poder de cómputo como los Dispositivos 
+Android Iphones Tablets contribuyen al aumento de la necesidad de operar de manera eficiente y confiable volúmenes 
+de datos nunca antes imaginados.
+Big Data, Virtualización, Cloud Computing etc.
+
+Realidad Actual Global
+
+Desafios 
+Complexity.
+Data Volume.
+High Availavility.
+Escalability.
+Flexibility.
+
+Problemas 
+
+Cyber Monday’s Chile 
+
+Downward Spiral: Circulo vicioso
+Deuda Tecnica.
+Tipos de trabajo TI.
+Devs vs Ops.
+
+
+High Performance
+Horses vs Unicorns.
+Factory, assembly line.
+The Goal Phoenix Project.
+Soluciones
+Lean Startup (Enterprise, Manufaturing, etc).
+Kanban Kaizen.( Mejora Continua).
+Devops Culture.
+Devops Proccesses.
+Devops Tools.
+Continuous Deployment.
+Deployment Pipeline.
+
+
+
+
+
+
+
+Los desafíos que enfrenta nuestro país no son distintos a los desafíos que se enfrentan muchas organizaciones alrededor del mundo.
+
+Sin embargo existen algunas organizaciones que se destacan por el eficiente uso de las tecnologías de información.
