@@ -1,4 +1,4 @@
-1) Hola muy buenas tardes sean todos muy bienvenidos a nuestro primer Webinar Cybersyn titulado 
+Hola muy buenas tardes sean todos muy bienvenidos a nuestro primer Webinar Cybersyn titulado 
 high performance TI con Devops.
 
 Mi nombre es Rodrigo Valdés soy ingeniero civil en informática con 8 años de experiencia trabajando 
@@ -27,17 +27,21 @@ Q&A
 
 
 
-Independiente de nuestra voluntad vivimos inmersos en un entorno de social y económico  caracterizados por ser 
-altamente volátil. La perspectiva de la evolución tanto de la naturaleza como de los humanos nos ha enseñado que 
-aquellos organismos que tienen mayor posibilidad de sobrevivir son aquellos que poseen una mayor habilidad para 
-adaptarse a los cambios del entorno. 
 
-Para las organizaciones no es distinto sobretodo hoy en 2014 en donde experimentamos aceleración de la ciencias 
-y las tecnologías información. En este tipo de entornos la capacidad de innovar es fundamental, así como también 
-tener los procesos apropiados para agilizar la flujo de información en la organización. Es aquí donde un equipo de 
-informática de alto rendimiento que tenga la capacidad de utilizar las tecnologías de información de manera inteligente 
-se convierten en un arma estratégica a la hora de disminuir costos de innovación y de operaciones siempre con el objetivo 
-de aportar el mayor valor en función de los objetivos de  la organización.
+Porqué Devops
+
+
+Vivimos en un entorno de negocios altamente volátil. La mayor posibilidad de sobrevivir son aquellos que 
+poseen una mayor habilidad para adaptarse a los cambios del entorno. 
+
+Hoy en 2014 en donde experimentamos aceleración de la ciencias y las tecnologías información. 
+
+
+En este tipo de entornos la capacidad de innovar es fundamental, así como también tener los procesos apropiados 
+para agilizar la flujo de información en la organización. Es aquí donde un equipo de informática de alto rendimiento 
+que tenga la capacidad de utilizar las tecnologías de información de manera inteligente se convierten en un arma 
+estratégica a la hora de disminuir costos de innovación y de operaciones siempre con el objetivo de aportar el mayor
+valor en función de los objetivos de  la organización.
 
 
 
