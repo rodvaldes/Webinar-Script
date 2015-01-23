@@ -66,7 +66,10 @@ A medida que el webinar avance, y esto es para la transmisión en vivo, es proba
 que se les vayan ocurriendo ustedes podrán enviarlas, para que las podamos clasificar y para que nuestros presentadores las contesten al final de la exposicion.
 
 Webinar 
+=======
 
+Breve presentación del Speaker
+==============================
 
 Hola muy buenas tardes sean todos muy bienvenidos a nuestro primer Webinar Cybersyn titulado 
 high performance TI con Devops.
@@ -75,15 +78,19 @@ Soy el co-fundador de nuestra empresa Cybersyn cuyo principal objetivo es ser un
 mundial como especialistas habilitadores de equipos de tecnologías de información del mas  alto desempeño.
 
 Agenda  (Overview) ( Sebe incluir una imagen de estructura del webinar)
+=======
 
 Los temas que analizaremos durante la próxima media hora son los siguientes:
 
 
-Realidad actual.
+Realidad actual de TI.
 Que es Devops
 Conclusiones.
 Q&A
 
+
+Motivación 
+==========
 
 "Change is not necessary. survival is not mandatory."
 “El cambio no es necesario. La supervivencia no es obligatoria”. W.H. Demming
