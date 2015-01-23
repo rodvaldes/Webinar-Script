@@ -1,11 +1,5 @@
-Hola muy buenas tardes sean todos muy bienvenidos a nuestro primer Webinar Cybersyn titulado 
+﻿Hola muy buenas tardes sean todos muy bienvenidos a nuestro primer Webinar Cybersyn titulado 
 high performance TI con Devops.
-
-Mi nombre es Rodrigo Valdés soy ingeniero civil en informática con 8 años de experiencia trabajando 
-en el Rubro de las Tecnologías de Información, tanto en el sector público, como privado en diversos 
-roles como Desarrollador de Software en Dybox y Chilecompra, Analista de Soporte Técnico en el Global 
-Customer Support Solaris OS en Oracle, Analista de soporte técnico Oracle Session Border Controller 
-(Acme packet).
 
 Soy el co-fundador de nuestra empresa Cybersyn cuyo principal objetivo es ser un referente a nivel 
 mundial como especialistas habilitadores de equipos de tecnologías de información del mas  alto desempeño.
@@ -14,10 +8,9 @@ Agenda  (Overview) ( Sebe incluir una imagen de estructura del webinar)
 
 Los temas que analizaremos durante la próxima media hora son los siguientes:
 
-Perspectiva evolutiva de desarrollo de Aplicaciones y Operaciones de tecnologías de información.
+
 Realidad actual.
-Problemas y conflictos.
-Devops al rescate.
+Que es Devops
 Conclusiones.
 Q&A
 
@@ -25,10 +18,36 @@ Q&A
 "Change is not necessary. survival is not mandatory."
 “El cambio no es necesario. La supervivencia no es obligatoria”. W.H. Demming
 
+Realidad Actual 
+
+-Evolución TI, (Ver video Oracle)   
+-Competencia Innovación es clave. 
+- TI como competencia del Core del Negocio.
+- Desafios TI
+	Quality.
+	Security.
+	Complexity.
+	Data Volume.
+	High Availavility.
+	Escalability.
+	Flexibility.	
+
+- Downward Spiral.
+	- Operations
+	- Fragile Artifacts
+	- Mision Critical.
+	- Shadow IT
+	- Deuda Tecnica.
+	- bussines Commitments.
+	- Developer Developing just features.
+	- Technical Debt.
+	- Deploy t increase.
+
+
+¿Que es Devops?
 
 
 
-Porqué Devops
 
 Devops es una palabra que ha estado rondando fuertemente en los últimos tiempos y muchas empresas lo están 
 implementando y los resultados son sobresalientes. Sin embargo no existe claridad respecto a qué significa 
@@ -92,21 +111,13 @@ Android Iphones Tablets contribuyen al aumento de la necesidad de operar de mane
 de datos nunca antes imaginados.
 Big Data, Virtualización, Cloud Computing etc.
 
-Realidad Actual Global
 
-Desafios 
-Complexity.
-Data Volume.
-High Availavility.
-Escalability.
-Flexibility.
 
 Problemas 
 
 Cyber Monday’s Chile 
 
-Downward Spiral: Circulo vicioso
-Deuda Tecnica.
+
 Tipos de trabajo TI.
 Devs vs Ops.
 
