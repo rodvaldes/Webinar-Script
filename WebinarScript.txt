@@ -1,25 +1,11 @@
-﻿Hola muy buenas tardes sean todos muy bienvenidos a nuestro primer Webinar Cybersyn titulado 
-high performance TI con Devops.
-
-Soy el co-fundador de nuestra empresa Cybersyn cuyo principal objetivo es ser un referente a nivel 
-mundial como especialistas habilitadores de equipos de tecnologías de información del mas  alto desempeño.
-
-Agenda  (Overview) ( Sebe incluir una imagen de estructura del webinar)
-
-Los temas que analizaremos durante la próxima media hora son los siguientes:
+﻿Estructura 
+==========
 
 
-Realidad actual.
-Que es Devops
-Conclusiones.
-Q&A
-
-
-"Change is not necessary. survival is not mandatory."
-“El cambio no es necesario. La supervivencia no es obligatoria”. W.H. Demming
-
-Realidad Actual 
-
+- Presentación Maria Molero.
+- Breve presentación speaker
+- Agenda
+-Realidad Actual 
 -Evolución TI, (Ver video Oracle)   
 -Competencia Innovación es clave. 
 - TI como competencia del Core del Negocio.
@@ -47,23 +33,70 @@ Realidad Actual
 ¿Que es Devops?
 
 
+=================================================================================================================
+Presentación WebinarMaría Molero
+
+Hola, Muy Buenas noches y sean todos Bienvenidos,
+Mi nombre es Maria Teresa Molero, soy ingeniero en Informatica con 7 años de experiencia en el rubro de las Tecnologias 
+de Informacion, Soporte, Desarrollo y Operaciones, y estaré presentandoles éste webinar.¿Que está pasando actualmente en 
+el área de Desarrollo y Operaciones en las empresas de Tecnologias de Informacion Latinoamericanas? Los equipos de desarrollo 
+están enfocados en cumplir los plazos de una carta Gantt, testear sus aplicaciones y subrir los cambios a producción. 
+Y el equipo de Operaciones se enfoca en garantizar que el ambiente de producción esté funcionando al 100%.
+El equipo de Desarrollo y Operaciones usualmente no habla el mismo lenguaje. Cada área tiene una comprensión limitada de 
+lo que hace la otra, y salvo cuando hay contigencias, éstas áreas se comunican, y la mayoria de las veces es para culpar la 
+una a la otra.
+
+¿Cómo solucionamos ésto?
+
+En Cybersyn, hemos estudiado un conjunto de prácticas y herramientas con el objetivo de responder ésa y otras preguntas. 
+Cybersyn, es una empresa de Servicios del área de TI que nace con el ideal de generar un apoyo para Impulsar y Ser el Pilar 
+fundamental de su Organizacion y así potenciar el desempeño de sus departamentos de TI mediante nuestros servicios de consultoria 
+y capacitación.
+
+A continuación, nuestro speaker, Rodrigo Valdés quien es co-fundador de Cybersyn, ingeniero civil en informática con 8 años de experiencia 
+trabajando en el Rubro de las Tecnologías de Información, tanto en el sector público, como privado en diversos roles como Desarrollador de 
+Software en Dybox y Chilecompra, Analista de Soporte Técnico en el Global Customer Support Solaris OS en Oracle, Analista de soporte técnico 
+Oracle Session Border Controller (Acme packet).
+
+El les explicará como cambiar este paradigma con DevOps y darle solución de una vez por todas a éste problema.
+DevOps es urgente e importante.
+
+La presentación está siendo grabada y podrán consultarla cada vez que lo deseen a través de nuetro canal de Youtube.
+A medida que el webinar avance, y esto es para la transmisión en vivo, es probable que ustedes deseen hacer preguntas, les comento que a medida 
+que se les vayan ocurriendo ustedes podrán enviarlas, para que las podamos clasificar y para que nuestros presentadores las contesten al final de la exposicion.
+
+Webinar 
+
+
+Hola muy buenas tardes sean todos muy bienvenidos a nuestro primer Webinar Cybersyn titulado 
+high performance TI con Devops.
+
+Soy el co-fundador de nuestra empresa Cybersyn cuyo principal objetivo es ser un referente a nivel 
+mundial como especialistas habilitadores de equipos de tecnologías de información del mas  alto desempeño.
+
+Agenda  (Overview) ( Sebe incluir una imagen de estructura del webinar)
+
+Los temas que analizaremos durante la próxima media hora son los siguientes:
+
+
+Realidad actual.
+Que es Devops
+Conclusiones.
+Q&A
+
+
+"Change is not necessary. survival is not mandatory."
+“El cambio no es necesario. La supervivencia no es obligatoria”. W.H. Demming
+
+
+
 
 
 Devops es una palabra que ha estado rondando fuertemente en los últimos tiempos y muchas empresas lo están 
 implementando y los resultados son sobresalientes. Sin embargo no existe claridad respecto a qué significa 
 o en que consiste.   
 
-Vivimos en un entorno de negocios caracterizado por la ser altamente volátil caracterizado por la competencia
-y la incertidumbre. La mayor posibilidad de sobrevivir es de aquellos que poseen una mayor habilidad para adaptarse 
-a los cambios del entorno. 
 
-Ejem: Cambio en las leyes laborales, Competencia. 
-
-En este tipo de entornos la capacidad de innovar es fundamental, así como también tener los procesos apropiados 
-para agilizar la flujo de información en la organización. Es aquí donde un equipo de informática de alto rendimiento 
-que tenga la capacidad de utilizar las tecnologías de información de manera inteligente se convierten en un arma 
-estratégica a la hora de disminuir costos de innovación y de operaciones siempre con el objetivo de aportar el mayor
-valor en función de los objetivos de  la organización.
 
 
 Hoy en 2014 en donde experimentamos aceleración de la ciencias y las tecnologías información. 
