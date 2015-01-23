@@ -89,7 +89,7 @@ Conclusiones.
 Q&A
 
 
-Motivación 
+Motivación TODO (Buscar una motivación mas que tenga que ver con negocio)
 ==========
 
 "Change is not necessary. survival is not mandatory."
@@ -97,23 +97,15 @@ Motivación
 
 
 
-
-
-Devops es una palabra que ha estado rondando fuertemente en los últimos tiempos y muchas empresas lo están 
-implementando y los resultados son sobresalientes. Sin embargo no existe claridad respecto a qué significa 
-o en que consiste.   
-
-
+Realidad Actual 
+===============
 
 
 Hoy en 2014 en donde experimentamos aceleración de la ciencias y las tecnologías información. 
 
 
-Perspectiva de evolución de  Operaciones TI. 
-
-La palabra devops viene de de dos palabras del idioma inglés que Development y Operations.
-En donde development se refiere a las actividades típicamente asociadas al rol del equipo de desarrollo de software dentro 
-de una organización.
+Evolución de Operaciones TI. 
+=============================================
 
 Por otro lado operations vienen de operaciones que corresponde al rol del equipo cuyo objetivo es explotar los recursos 
 informáticos de manera de mantener la continuidad de los servicios críticos de la organización.
@@ -152,6 +144,12 @@ de datos nunca antes imaginados.
 Big Data, Virtualización, Cloud Computing etc.
 
 
+
+¿Qué es Devops?
+===============
+Devops es una palabra que ha estado rondando fuertemente en los últimos tiempos y muchas empresas lo están 
+implementando y los resultados son sobresalientes. Sin embargo no existe claridad respecto a qué significa 
+o en que consiste.   
 
 Problemas 
 
