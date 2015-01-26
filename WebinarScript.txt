@@ -32,21 +32,6 @@
 
 - ¿Que es Devops y de donde viene?
 
-El término devops típicamente se refiere a un emergente movimiento profesional que 
-aboga por una relación de trabajo colaborativa entre Desarrollo y Operaciones IT, lo 
-cual permite un flujo rápido de trabajo planeado (ejm. Tasa de depliegue superiores),
-y al mismo tiempo aumenta la confiabiliddad, estabilidad, resiliencia y seguridad del 
-ambiente de producción.
-
-Devops se origina mas o menos en el 2009 como la convergencia de varios movimientos
-paralelos y complementarios:
-
-
-
-
-
-
-
 =================================================================================================================
 Presentación WebinarMaría Molero
 
@@ -114,8 +99,18 @@ Motivación TODO (Buscar una motivación mas que tenga que ver con negocio)
 Realidad Actual 
 ===============
 
-
 Hoy en 2014 en donde experimentamos aceleración de la ciencias y las tecnologías información. 
+Evolución TI, (Ver video Oracle)   
+-Competencia Innovación es clave. 
+- TI como competencia del Core del Negocio.
+- Desafios TI
+	Quality.
+	Security.
+	Complexity.
+	Data Volume.
+	High Availavility.
+	Escalability.
+	Flexibility.	
 
 
 Evolución de Operaciones TI. 
@@ -157,6 +152,27 @@ Android Iphones Tablets contribuyen al aumento de la necesidad de operar de mane
 de datos nunca antes imaginados.
 Big Data, Virtualización, Cloud Computing etc.
 
+
+Problemas 
+-Tipos de trabajo TI.
+- Devs vs Ops.
+- Downward Spiral.
+	- Operations
+	- Fragile Artifacts
+	- Mision Critical.
+	- Shadow IT
+	- Deuda Tecnica.
+	- bussines Commitments.
+	- Developer Developing just features.
+	- Technical Debt.
+	- Deploy t increase.
+
+Ejemplos
+
+Cyber Monday’s Chile 
+
+
+
 ¿Que es Devops y de donde viene?
 ================================
 
@@ -170,13 +186,17 @@ Devops se origina mas o menos en el 2009 como la convergencia de varios movimien
 paralelos y complementarios:
 
 
-Problemas 
-
-Cyber Monday’s Chile 
 
 
-Tipos de trabajo TI.
-Devs vs Ops.
+
+
+
+
+
+
+
+
+
 
 
 High Performance
