@@ -99,6 +99,19 @@ Motivación TODO (Buscar una motivación mas que tenga que ver con negocio)
 Realidad Actual 
 ===============
 
+Hoy en día la mayoría de las organizaciones dependen de las tecnología de información.
+Casi la mayoría de los compromisos que las compañías hacen con el mundo exterior, ya sea 
+relacionado con proyectos, operaciones, cumplimiento o reportes financieros, requieren de 
+TI. Aun así muchos directores de compañías aun piensan: "No somos M$ o Google. IT no es 
+nuestro core, podemos subcontratar."
+
+Para la mayoría de las compañias. TI funciona como un sistema nervioso, pues existen una 
+gran cantidad de procesos críticos de negocio automatizado con IT generando que todas las
+decisiones de negocios resulten en al menos un cambio en TI. Aun así, el departamento de 
+informática a menudo se encuentra atascado ya sea con trabajos urgentes o no planificado
+(Apagando incendios) coartando la habilidad de ejecutar proyectos desperdiciando muchas 
+horas.
+
 Hoy en 2014 en donde experimentamos aceleración de la ciencias y las tecnologías información. 
 Evolución TI, (Ver video Oracle)   
 -Competencia Innovación es clave. 
