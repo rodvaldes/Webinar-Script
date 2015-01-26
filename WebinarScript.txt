@@ -30,7 +30,21 @@
 	- Deploy t increase.
 
 
-¿Que es Devops?
+- ¿Que es Devops y de donde viene?
+
+El término devops típicamente se refiere a un emergente movimiento profesional que 
+aboga por una relación de trabajo colaborativa entre Desarrollo y Operaciones IT, lo 
+cual permite un flujo rápido de trabajo planeado (ejm. Tasa de depliegue superiores),
+y al mismo tiempo aumenta la confiabiliddad, estabilidad, resiliencia y seguridad del 
+ambiente de producción.
+
+Devops se origina mas o menos en el 2009 como la convergencia de varios movimientos
+paralelos y complementarios:
+
+
+
+
+
 
 
 =================================================================================================================
@@ -143,13 +157,18 @@ Android Iphones Tablets contribuyen al aumento de la necesidad de operar de mane
 de datos nunca antes imaginados.
 Big Data, Virtualización, Cloud Computing etc.
 
+¿Que es Devops y de donde viene?
+================================
 
+El término devops típicamente se refiere a un emergente movimiento profesional que 
+aboga por una relación de trabajo colaborativa entre Desarrollo y Operaciones IT, lo 
+cual permite un flujo rápido de trabajo planeado (ejm. Tasa de depliegue superiores),
+y al mismo tiempo aumenta la confiabiliddad, estabilidad, resiliencia y seguridad del 
+ambiente de producción.
 
-¿Qué es Devops?
-===============
-Devops es una palabra que ha estado rondando fuertemente en los últimos tiempos y muchas empresas lo están 
-implementando y los resultados son sobresalientes. Sin embargo no existe claridad respecto a qué significa 
-o en que consiste.   
+Devops se origina mas o menos en el 2009 como la convergencia de varios movimientos
+paralelos y complementarios:
+
 
 Problemas 
 
