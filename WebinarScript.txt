@@ -33,7 +33,7 @@
 - ¿Que es Devops y de donde viene?
 
 =================================================================================================================
-Presentación WebinarMaría Molero
+Presentación Webinar María Molero
 
 Hola, Muy Buenas noches y sean todos Bienvenidos,
 Mi nombre es Maria Teresa Molero, soy ingeniero en Informatica con 7 años de experiencia en el rubro de las Tecnologias 
@@ -70,14 +70,19 @@ Webinar
 Breve presentación del Speaker
 ==============================
 
-Hola muy buenas tardes sean todos muy bienvenidos a nuestro primer Webinar Cybersyn titulado 
-high performance TI con Devops.
+Soy Rodrigo Valdés co-fundador de Cybersyn. Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas areas de las tecnologías
+de información. Desarrollo de Software, desde el caos total hasta el trabajo en entornos ágiles de desarrollo. Por otro lado el trabajo en soporte para 
+una empresa global me dio la posibilidad de entender que muchos de los problemas locales están presentes son transversales a nivel global. 
 
-Soy el co-fundador de nuestra empresa Cybersyn cuyo principal objetivo es ser un referente a nivel 
-mundial como especialistas habilitadores de equipos de tecnologías de información del mas  alto desempeño.
+Entonces Cybersyn nace como respuesta a la siguiente interrogante: ¿ De que manera se puede obtener el mayor rendimiento de nuestros equipos TI?. Por lo tanto
+Cybersyn ha echo un importante trabajo a la hora de estudiar y aplicar las características que diferencian a las organizaciones de TI High Performance (Alto desempeño). 
+
+Nuestro objetivo es ayudar a las empresas a habilitar los departamentos de Tecnología de alto desempeño, generando ventajas competitivas para el negocio. 
 
 Agenda  (Overview) ( Sebe incluir una imagen de estructura del webinar)
 =======
+
+En esta ocación voy a hablar específicamente de Devops.
 
 Los temas que analizaremos durante la próxima media hora son los siguientes:
 
@@ -232,5 +237,4 @@ Deployment Pipeline.
 
 
 Los desafíos que enfrenta nuestro país no son distintos a los desafíos que se enfrentan muchas organizaciones alrededor del mundo.
-
 Sin embargo existen algunas organizaciones que se destacan por el eficiente uso de las tecnologías de información.
