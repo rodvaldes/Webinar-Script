@@ -204,6 +204,15 @@ Devops se origina mas o menos en el 2009 como la convergencia de varios movimien
 paralelos y complementarios:
 
 
+• La presentación de John Allspaw y Paul Hammond en la Velocity Conference "10 Deploys a Day".
+
+• El movimiento "Infraestructura como código" (Mark Burgessy Luke Keines), el movimiento "Agile Infraestructure" (Andrew Shafer), 
+y el movimiento de administración ágil de sistemas (Patrick DeBois).
+  
+• El movimiento "Lean Startup" de Eric Ries.
+• La integración continua. (Jez Humble).
+• La disponibilidad masiva de tecnologías Cloud y PaaS ( Platform as a service). Por ejemplo AWS.
+
 
 
 
