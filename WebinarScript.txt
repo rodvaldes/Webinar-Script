@@ -241,6 +241,15 @@ Deployment Pipeline.
 
 
 
+Conclusiones
+============
+
+- Devops no es sólo acerca de opciones técnicas y herramientas; el éxito de su implementación depende en gran medida
+de comportamientos, la cultura y el ambiente de la organización.
+
+- Lo equipos que eficazmente han implementado devops jamás se han arrepentido o intentado volver a las antiguas maneras de trabajar en 
+donde los despliegues en producción significaban trabajar fin de semanas completos, o trabajar hasta muy tarde en la noche.
+
 
 
 
