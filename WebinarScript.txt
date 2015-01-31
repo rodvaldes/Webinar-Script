@@ -36,20 +36,20 @@
 Presentación Webinar María Molero
 
 Hola, Muy Buenas noches y sean todos Bienvenidos,
-Mi nombre es Maria Teresa Molero, soy ingeniero en Informatica con 7 años de experiencia en el rubro de las Tecnologias 
-de Informacion, Soporte, Desarrollo y Operaciones, y estaré presentandoles éste webinar.¿Que está pasando actualmente en 
-el área de Desarrollo y Operaciones en las empresas de Tecnologias de Informacion Latinoamericanas? Los equipos de desarrollo 
-están enfocados en cumplir los plazos de una carta Gantt, testear sus aplicaciones y subrir los cambios a producción. 
+Mi nombre es Maria Teresa Molero, soy ingeniero en Informatica con 7 años de experiencia en el rubro de las Tecnologías 
+de Información, Soporte, Desarrollo y Operaciones, y estaré presentandoles éste webinar.¿Que está pasando actualmente en 
+el área de Desarrollo y Operaciones en las empresas de Tecnologías de Información Latinoamericanas? Los equipos de desarrollo 
+están enfocados en cumplir los plazos de una carta Gantt, testear sus aplicaciones y subir los cambios a producción. 
 Y el equipo de Operaciones se enfoca en garantizar que el ambiente de producción esté funcionando al 100%.
 El equipo de Desarrollo y Operaciones usualmente no habla el mismo lenguaje. Cada área tiene una comprensión limitada de 
-lo que hace la otra, y salvo cuando hay contigencias, éstas áreas se comunican, y la mayoria de las veces es para culpar la 
+lo que hace la otra, y salvo cuando hay contingencias, éstas áreas se comunican, y la mayoría de las veces es para culpar la 
 una a la otra.
 
 ¿Cómo solucionamos ésto?
 
 En Cybersyn, hemos estudiado un conjunto de prácticas y herramientas con el objetivo de responder ésa y otras preguntas. 
 Cybersyn, es una empresa de Servicios del área de TI que nace con el ideal de generar un apoyo para Impulsar y Ser el Pilar 
-fundamental de su Organizacion y así potenciar el desempeño de sus departamentos de TI mediante nuestros servicios de consultoria 
+fundamental de su Organización y así potenciar el desempeño de sus departamentos de TI mediante nuestros servicios de consultoría 
 y capacitación.
 
 A continuación, nuestro speaker, Rodrigo Valdés quien es co-fundador de Cybersyn, ingeniero civil en informática con 8 años de experiencia 
@@ -60,9 +60,9 @@ Oracle Session Border Controller (Acme packet).
 El les explicará como cambiar este paradigma con DevOps y darle solución de una vez por todas a éste problema.
 DevOps es urgente e importante.
 
-La presentación está siendo grabada y podrán consultarla cada vez que lo deseen a través de nuetro canal de Youtube.
+La presentación está siendo grabada y podrán consultarla cada vez que lo deseen a través de nuestro canal de Youtube.
 A medida que el webinar avance, y esto es para la transmisión en vivo, es probable que ustedes deseen hacer preguntas, les comento que a medida 
-que se les vayan ocurriendo ustedes podrán enviarlas, para que las podamos clasificar y para que nuestros presentadores las contesten al final de la exposicion.
+que se les vayan ocurriendo ustedes podrán enviarlas, para que las podamos clasificar y para que nuestros presentadores las contesten al final de la exposición.
 
 Webinar 
 =======
@@ -70,7 +70,7 @@ Webinar
 Breve presentación del Speaker
 ==============================
 
-Soy Rodrigo Valdés co-fundador de Cybersyn. Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas areas de las tecnologías
+Soy Rodrigo Valdés co-fundador de Cybersyn. Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas áreas de las tecnologías
 de información. Desarrollo de Software, desde el caos total hasta el trabajo en entornos ágiles de desarrollo. Por otro lado el trabajo en soporte para 
 una empresa global me dio la posibilidad de entender que muchos de los problemas locales están presentes son transversales a nivel global. 
 
@@ -82,7 +82,7 @@ Nuestro objetivo es ayudar a las empresas a habilitar los departamentos de Tecno
 Agenda  (Overview) ( Sebe incluir una imagen de estructura del webinar)
 =======
 
-En esta ocación voy a hablar específicamente de Devops.
+En esta ocasión voy a hablar específicamente de Devops.
 
 Los temas que analizaremos durante la próxima media hora son los siguientes:
 
@@ -110,7 +110,7 @@ relacionado con proyectos, operaciones, cumplimiento o reportes financieros, req
 TI. Aun así muchos directores de compañías aun piensan: "No somos M$ o Google. IT no es 
 nuestro core, podemos subcontratar."
 
-Para la mayoría de las compañias. TI funciona como un sistema nervioso, pues existen una 
+Para la mayoría de las compañías. TI funciona como un sistema nervioso, pues existen una 
 gran cantidad de procesos críticos de negocio automatizado con IT generando que todas las
 decisiones de negocios resulten en al menos un cambio en TI. Aun así, el departamento de 
 informática a menudo se encuentra atascado ya sea con trabajos urgentes o no planificado
@@ -121,7 +121,7 @@ Hoy en 2014 en donde experimentamos aceleración de la ciencias y las tecnologí
 Evolución TI, (Ver video Oracle)   
 -Competencia Innovación es clave. 
 - TI como competencia del Core del Negocio.
-- Desafios TI
+- Desafíos TI
 	Quality.
 	Security.
 	Complexity.
@@ -152,7 +152,7 @@ paso a los lectores y a los "operadores de computadora”.
 Se hacía muy importante tener un equipo especializado en mantener funcionando los cada vez más complejas 
 infraestructuras de tecnologías de Información.
 
-Internet en los 90.´revolucionó tanto la tecnologías de comunicación como la manera de hacer negocio en una 
+Internet en los 90.revolucionó tanto la tecnologías de comunicación como la manera de hacer negocio en una 
 nueva economía electrónica globalizada. La velocidad con que evolucionó la red en términos de usuarios generó 
 un gran desafío tanto para desarrolladores como para operaciones. Por un lado Ingeniería de software debía encontrar
 la manera de sustituir las metodología de desarrollo tradicionales para estar a la altura de los nuevos desafíos 
@@ -196,8 +196,8 @@ Cyber Monday’s Chile
 
 El término devops típicamente se refiere a un emergente movimiento profesional que 
 aboga por una relación de trabajo colaborativa entre Desarrollo y Operaciones IT, lo 
-cual permite un flujo rápido de trabajo planeado (ejm. Tasa de depliegue superiores),
-y al mismo tiempo aumenta la confiabiliddad, estabilidad, resiliencia y seguridad del 
+cual permite un flujo rápido de trabajo planeado (ejm. Tasa de despliegue superiores),
+y al mismo tiempo aumenta la confiabilidad, estabilidad, resiliencia y seguridad del 
 ambiente de producción.
 
 Devops se origina mas o menos en el 2009 como la convergencia de varios movimientos
@@ -258,7 +258,7 @@ El tercer camino
 El tercer camino busca crear una cultura que incentive los siguientes elementos: experimentación continua, tomar riesgos y aprender de las fallas; y 
 entender que la repetición y la práctica son los requisitos para la maestría.
 
-Se necesitan ambos equilibradamente, experimentación y tomar riesgos pues son estos quienes aseguran que segiremos esforzandonos por superarnos, incluso
+Se necesitan ambos equilibradamente, experimentación y tomar riesgos pues son estos quienes aseguran que seguiremos esforzándonos por superarnos, incluso
 cuando eso signifique ir los más profundo de la zona de peligro que alguna vez hayamos estado. Y necesitamos la maestría en las habilidades que nos ayudaran
 a salir de la zona de peligro cuando hayamos llegado muy lejos.
 
