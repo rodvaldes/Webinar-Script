@@ -253,7 +253,17 @@ cuyo objetivo es acortar y amplificar la retroalimentación de modo que las corr
 El resultado del segundo camino incluye el entendimiento y la respuesta a todos los clientes, internos y externos, acortando y amplificando los ciclos 
 de retroalimentación e internalizando el conocimiento donde sea necesario.
 
+El tercer camino
+================
+El tercer camino busca crear una cultura que incentive los siguientes elementos: experimentación continua, tomar riesgos y aprender de las fallas; y 
+entender que la repetición y la práctica son los requisitos para la maestría.
 
+Se necesitan ambos equilibradamente, experimentación y tomar riesgos pues son estos quienes aseguran que segiremos esforzandonos por superarnos, incluso
+cuando eso signifique ir los más profundo de la zona de peligro que alguna vez hayamos estado. Y necesitamos la maestría en las habilidades que nos ayudaran
+a salir de la zona de peligro cuando hayamos llegado muy lejos.
+
+El resultado del tercer camino consiste en la asignación de tiempo para la mejora en el trabajo diario, crear rituales que recompensen la voluntad del equipo 
+de tomar riesgos, e introducir fallas al sistema para incrementar la resiliencia.
 
 
 
