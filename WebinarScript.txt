@@ -223,24 +223,35 @@ de aplicación se describe como un evento de "Big Bang"
 
 
 The Three Ways
+===============
 
+El primer camino
+================
 
 El primer camino se enfoca en la performance del sistema completo en vez de focalizarce en la performance de un determinado departamento,
 el cual puede ser tan grande como una división completa ejm: Desarrollo u Operaciones, o tan pequeña como un sólo trabajador Ejemplo: Desarrollador, Sys Admin.
 
 El foco es en el flujo de valor que son generados por IT. De otra manera, todo comienza con un requerimiento identificado(Por el negocio o por IT) el cual se 
-contruye en Desarrollo, y que posteriormente es enviado al equipo de Operaciones en donde finalmente es donde se materializa el valor que se entrega al cliente
+construye en Desarrollo, y que posteriormente es enviado al equipo de Operaciones en donde finalmente es donde se materializa el valor que se entrega al cliente
 a manera de servicio.
 
 Algunos de los efectos de poner en práctica el primer camino son por ejemplo:
 
 - Nunca pasar un defecto conocido a etapas posteriores que componen el flujo.
 - Nunca permitir optimización local en favor de la degradación global. (Ejemplo: Cadena de ensamblaje podría tener un excelente ritmo de entrega de materiales
-en cadena de suministro sin embargo si la cadena no es lo suficientemente rápida las piezas quedaran amontonadas en un rincon).
+en cadena de suministro sin embargo si la cadena no es lo suficientemente rápida las piezas quedaran amontonadas en un rincón).
 - Siempre se persigue el crecimiento del flujo.
 - Siempre se persigue obtener un profundo entendimiento del sistema.
 
 
+El Segundo Camino 
+=================
+
+El segundo camino consiste en cerrar el ciclo desde La Derecha a la Izquierda. En este caso hablamos de una iniciativa de proceso de mejora continua
+cuyo objetivo es acortar y amplificar la retroalimentación de modo que las correcciones necesarias puedan ser efectuadas de manera continua.
+
+El resultado del segundo camino incluye el entendimiento y la respuesta a todos los clientes, internos y externos, acortando y amplificando los ciclos 
+de retroalimentación e internalizando el conocimiento donde sea necesario.
 
 
 
