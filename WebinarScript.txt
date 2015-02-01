@@ -252,6 +252,25 @@ el código está en producción entregando valor al cliente.
 
 DEvops posibilita un flujo de de trabajo para operaciones TI.
 
+
+¿Cual es la diferencia con ITIL o ITSM?
+
+A pesar de que existe la percepción de que Devops se opone a ITIL, esto esta lejos de ser cierto.
+ITIL describe los procesos fundamentales de Operaciones de IT que son necesarias para soportar un 
+flujo de trabajo al estilo Devops.
+
+El resultado de Agile es el input a Operaciones. Con el objetivo de acomodar el ritmo de operaciones
+a las nuevas exigencias, muchos de los procesos descritos en ITIL podran ser automatizados, específicamente
+en los procesos de cambios, configuración y release. 
+
+El objetivo de DevOps no sólo consiste en el incremento de la tasas de cambio, también se busca
+poner código en producción sin causar caos o la interrupción de otros servicios, y al mismo tiempo 
+detectando y corrigiendo incidentes cuando estos ocurren. Esto implica el uso de ITIL mediante
+sus definicines de adminitración de diseños de servicios, y administración de incidentes y problemas.
+
+  
+
+
 The Three Ways
 ===============
 
