@@ -103,8 +103,6 @@ Evolución de Operaciones TI. TODO: Modificar para hacerlo mas chori.
 =============================================
 TODO:Evolución TI, (Ver video Oracle).
 
-
-
 Para saber dónde vamos debemos saber desde dónde venimos, y así tener una perspectiva de la vertiginosa aceleración 
 y maduración de las tecnologías de información y porqué es necesario considerar la implementación de devops en su 
 organización.  Por lo tanto haremos una breve revisión de la evolución de las actividades ligadas al manejo de 
@@ -168,16 +166,17 @@ High Performance
 =================
 ¿Que es una organización High Performance?
 
+
+
 Una organización de High Performance se caracteriza por su habilidad de proveer aplicaciones críticas
-de manera rápida sin causar la interrupción de servicio
+de manera rápida sin causar la interrupción de servicio. Loe ejemplo clásicos de este tipo de organizaciones
+son grandes "WebOps" como Google, Amazon, Twitter. Las cuales se caracterízan por hacer múltiples puestas en 
+producción al día.
 
-A high-performing organization is characterized
-by its ability to ship business-critical applications
-quickly without disrupting service. The classic
-examples of this are big WebOps shops—Google,
-Amazon, Twitter, and Etsy—known for deploying
-multiple times a day
 
+IT organizations are expected to respond more quickly to
+urgent business needs while simultaneously providing
+stable, secure, and predictable IT service.
 
 Indicadores clave de performance de agilidad:
 	-Frecuencias de puestas en producción.
@@ -196,9 +195,7 @@ Indicadores clave de performance de confiabilidad (Reliability)
 
 TODO: Investigar el devops survey 2014.
 
-IT organizations are expected to respond more quickly to
-urgent business needs while simultaneously providing
-stable, secure, and predictable IT service. However, the
+ However, the
 systems on which the business operates are typically
 fragile and hostile to change. Adopting Agile development
 processes without improving operational reliability
@@ -222,12 +219,11 @@ ITIL/ITSM.
 
 		
 
-
-
-
-
 Problemas  típicos en el actual desempeño de las Organizaciones Tipos
 ======================================================================
+
+
+
 -Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
 - Devs vs Ops.
 - Downward Spiral.
