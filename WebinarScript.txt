@@ -239,9 +239,18 @@ informáticos de manera de mantener la continuidad de los servicios críticos de
 Cual es la diferencia con Agile?
 
 Uno de los principios de agile, es entregar software funcional en incrementos pequeños y más 
-frecuentes, a diferencia de los métodos tradicionales en como cascada en donde el despliegue 
-de aplicación se describe como un evento de "Big Bang"
+frecuentes, a diferencia de los métodos tradicionales en como cascada en donde la puesta en 
+producción de aplicación se describe como un evento de "Big Bang"
 
+Sin embargo cuando se tiene una alta nivel de producción a menudo se acumulan en la puerta 
+de Operaciones.
+
+Devops se convierte en el complemento ideal al proceso de desarrollo de software Ágil porque 
+extiende y completa el proceso de integración continua y el proceso de release asegurando que 
+el código está en producción entregando valor al cliente.
+
+
+DEvops posibilita un flujo de de trabajo para operaciones TI.
 
 The Three Ways
 ===============
