@@ -5,9 +5,9 @@
 - Presentación Maria Molero.
 - Breve presentación speaker
 - Agenda
--Realidad Actual 
--Evolución TI, (Ver video Oracle)   
--Competencia Innovación es clave. 
+- Evolución TI, (Ver video Oracle)
+- Realidad Actual 
+- Competencia Innovación es clave. 
 - TI como competencia del Core del Negocio.
 - Desafios TI
 	Quality.
@@ -31,7 +31,8 @@
 
 
 - ¿Que es Devops y de donde viene?
-
+- Conclusiones.
+- Q&A.
 =================================================================================================================
 Presentación Webinar María Molero
 
@@ -86,8 +87,9 @@ En esta ocasión voy a hablar específicamente de Devops.
 
 Los temas que analizaremos durante la próxima media hora son los siguientes:
 
-
+Evolución de TI
 Realidad actual de TI.
+High Performance.
 Que es Devops
 Conclusiones.
 Q&A
@@ -102,8 +104,8 @@ Motivación TODO (Buscar una motivación mas que tenga que ver con negocio)
 "Si buscas resultados distintos no hagas siempre lo mismo" Albert Einstein.
 
 
-Evolución de Operaciones TI. TODO: Modificar para hacerlo mas chori.
-=============================================
+Evolución de Operaciones TI
+===========================
 
 
 TODO:Evolución TI, (Ver video Oracle).
@@ -168,9 +170,8 @@ el eficiente uso de las tecnologías de información.
    
 High Performance Alto desempeño
 ===============================
+
 ¿Que es una organización High Performance?
-
-
 
 Una organización de High Performance se caracteriza por su habilidad de proveer aplicaciones críticas
 de manera rápida sin causar la interrupción de servicio. Loe ejemplo clásicos de este tipo de organizaciones
@@ -180,6 +181,13 @@ producción al día.
 Se espera de las organizaciones de TI que puedan responder de manera más rápida a las necesidades urgentes 
 del negocio mientras que se proporciona un servicio de TI estable, seguro, y predecible.
 
+	Quality.
+	Security.
+	Complexity.
+	Data Volume.
+	High Availavility.
+	Escalability.
+	Flexibility.
 
 Indicadores clave de performance de agilidad:
 	-Frecuencias de puestas en producción.
@@ -189,16 +197,15 @@ Indicadores clave de performance de confiabilidad (Reliability)
 	- Mean Time to Recover
 	- Tasa de fallas de cambio.
 
-	Quality.
-	Security.
-	Complexity.
-	Data Volume.
-	High Availavility.
-	Escalability.
-	Flexibility.
+	
 
 TODO: Investigar el devops survey 2014.
 
+¿Porqué TI de High Performance es algo que me debiese interesar?
+
+Una buena performance IT es una ventaja competitiva. Según la encuesta del estado de 
+DevOps 2014 aquellas empresas que poseían equipos TI de lato desempeño tuvieron el doble 
+de probabilidades de exceder su rentabilidad,cuota de mercado y metas de producción.
 
 
 - Competencia Innovación es clave. 
@@ -206,7 +213,7 @@ TODO: Investigar el devops survey 2014.
 
 		
 
-Problemas  típicos en el actual desempeño de las Organizaciones Tipos
+Problema típicos en el actual desempeño de las Organizaciones Tipos
 ======================================================================
  However, the
 systems on which the business operates are typically
