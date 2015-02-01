@@ -168,6 +168,24 @@ High Performance
 =================
 ¿Que es una organización High Performance?
 
+Una organización de High Performance se caracteriza por su habilidad de proveer aplicaciones críticas
+de manera rápida sin causar la interrupción de servicio
+
+A high-performing organization is characterized
+by its ability to ship business-critical applications
+quickly without disrupting service. The classic
+examples of this are big WebOps shops—Google,
+Amazon, Twitter, and Etsy—known for deploying
+multiple times a day
+
+
+Indicadores clave de performance de agilidad:
+	-Frecuencias de puestas en producción.
+	-Lead Time de cambio.
+	
+Indicadores clave de performance de confiabilidad (Reliability)
+	- Mean Time to Recover
+	- Tasa de fallas de cambio.
 	Quality.
 	Security.
 	Complexity.
@@ -178,10 +196,30 @@ High Performance
 
 TODO: Investigar el devops survey 2014.
 
+IT organizations are expected to respond more quickly to
+urgent business needs while simultaneously providing
+stable, secure, and predictable IT service. However, the
+systems on which the business operates are typically
+fragile and hostile to change. Adopting Agile development
+processes without improving operational reliability
+or communication between developers and operations
+only makes this problem worse. The increased frequency
+of releases from development creates even more of a
+burden on an already strained IT organization. Similarly,
+adopting rigid ITIL/ITSM standards without addressing
+development issues and improving communication channels
+results in an inflexible IT organization that simply
+cannot respond to business needs quickly enough.
+DevOps picks up where Agile methodology and IT standards
+left off.
+For the first time ever, by adopting DevOps practices, IT
+organizations can be simultaneously agile and reliable,
+thus fulfilling the promise of over 20 years of Agile and
+ITIL/ITSM.
 
 - Competencia Innovación es clave. 
 - TI como competencia del Core del Negocio.
-- Desafíos TI
+
 		
 
 
