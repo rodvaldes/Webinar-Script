@@ -160,7 +160,7 @@ muchas organizaciones alrededor del mundo.
 Sin embargo existen algunas que se destacan por 
 el eficiente uso de las tecnologías de información.
 
-Hoy en 2014 en donde experimentamos aceleración de la ciencias y las tecnologías información.   
+   
 
 
 
@@ -294,6 +294,9 @@ DEvops posibilita un flujo de de trabajo para operaciones TI.
 ¿Cual es la diferencia con ITIL o ITSM?
 
 A pesar de que existe la percepción de que Devops se opone a ITIL, esto esta lejos de ser cierto.
+La verdad es que Devops no es un movimiento que haya surgido de la gran empresa. Y sus precursores
+no estaban al tanto o no tenían experiencia ITIL 
+
 ITIL describe los procesos fundamentales de Operaciones de IT que son necesarias para soportar un 
 flujo de trabajo al estilo Devops.
 
