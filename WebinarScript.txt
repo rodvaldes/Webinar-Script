@@ -108,37 +108,37 @@ Evolución de Operaciones TI. TODO: Modificar para hacerlo mas chori.
 
 TODO:Evolución TI, (Ver video Oracle).
 
+Cada 10 o 20 años la computación empresarial (Enterprise) experimenta grandes cambios arquitectónicos
 
-
-Para tener una perspectiva de la vertiginosa aceleración y maduración de las tecnologías de información y
-porqué es necesario considerar la implementación de devops en su organización.  
-
+Generacion 1 (1980): Minicomputers, Mainframes PC'c. 
+Generación 2 (1990): Arquitectura Cliente Servidor.
+Generación 3 (2000): Arquitectura en internet y los Thin Clients.
+Generación 4 (2010): Cloud Compiting, Big Data, IoT.
+ 
 Al comienza de la era de la computación no había una separación entre las tareas de desarrollo y operación. 
 Las personas que tenían que desarrollar un programa debían saber también como operarla.  
-En los 60 cuando los desarrolladores y analistas dejaron de utilizar tarjetas perforadas para dar 
-paso a los lectores y a los "operadores de computadora”.
-70's minicomputers.
-80's PC’s.  
+En los 60 cuando surgen los "operadores de computadora”.
+  
 Se hacía muy importante tener un equipo especializado en mantener funcionando los cada vez más complejas 
-infraestructuras de tecnologías de Información.
+infraestructuras de tecnologías de Información, dando paso a lo que hoy conocemos como el equipo de Operaciones.
 
-Internet en los 90.revolucionó tanto la tecnologías de comunicación como la manera de hacer negocio en una 
-nueva economía electrónica globalizada. La velocidad con que evolucionó la red en términos de usuarios generó 
-un gran desafío tanto para desarrolladores como para operaciones. Por un lado Ingeniería de software debía encontrar
-la manera de sustituir las metodología de desarrollo tradicionales para estar a la altura de los nuevos desafíos 
-(Disponibilidad, Performance, Calidad, Seguridad,etc. La implementación de agile  significó un sustantivo avance en 
-cuanto a nuevas metodologías de desarrollo de software Incorporando conceptos como Programación Orientada a Objetos, 
-Test Driven Development, Design Patterns, Continuous Integration.
+Internet en los 90 revolucionó tanto la tecnologías de comunicación como la manera de hacer negocios generando una 
+nueva economía electrónica globalizada. 
 
-Web 2.0. Con el advenimiento de la Web 2.0 se facilita el acceso masivo del publico general para 
-la generación de contenido. Generando así un nuevo desafío para los equipos informáticos con la tarea 
-de desarrollar sistemas mas complejos capaces de escalar en performance de manera automática en caso 
-de presentarse una peak de usuarios.
+La velocidad con que evolucionó la red en términos de usuarios generó un gran desafío tanto para desarrolladores 
+como para operaciones. Por un lado Ingeniería de software debía encontrar la manera de sustituir las metodología de 
+desarrollo tradicionales para estar a la altura de los nuevos desafíos (Disponibilidad, Performance, Calidad, Seguridad,etc. 
+
+La implementación de agile  significó un sustantivo avance en desarrollo de software Incorporando conceptos como 
+Programación Orientada a Objetos,Test Driven Development, Design Patterns, Continuous Integration.
+
+En el 2000 con Web 2.0 se facilita el acceso masivo del publico general para la generación de contenido. Generando así una
+explosión de datos y asi un nuevo desafío para los equipos informáticos con la tarea de desarrollar nuevas arquitecturas de 
+sistemas ante un nuevo conjunto de requerimientos no funcionales. (Disponibilidad, Performance, Calidad, Seguridad,etc)
 
 Actualmente la masificación actual de los dispositivos móviles de alto poder de cómputo como los Dispositivos 
 Android Iphones Tablets contribuyen al aumento de la necesidad de operar de manera eficiente y confiable volúmenes 
-de datos nunca antes imaginados.
-Big Data, Virtualización, Cloud Computing etc.
+de datos nunca antes imaginados.Big Data, Virtualización, Cloud Computing etc.
 
 
 
