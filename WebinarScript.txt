@@ -99,14 +99,19 @@ Motivación TODO (Buscar una motivación mas que tenga que ver con negocio)
 "Change is not necessary. survival is not mandatory."
 “El cambio no es necesario. La supervivencia no es obligatoria”. W.H. Demming
 
+"Si buscas resultados distintos no hagas siempre lo mismo" Albert Einstein.
+
+
 Evolución de Operaciones TI. TODO: Modificar para hacerlo mas chori.
 =============================================
+
+
 TODO:Evolución TI, (Ver video Oracle).
 
-Para saber dónde vamos debemos saber desde dónde venimos, y así tener una perspectiva de la vertiginosa aceleración 
-y maduración de las tecnologías de información y porqué es necesario considerar la implementación de devops en su 
-organización.  Por lo tanto haremos una breve revisión de la evolución de las actividades ligadas al manejo de 
-infraestructura tecnológica y de aplicaciones.
+
+
+Para tener una perspectiva de la vertiginosa aceleración y maduración de las tecnologías de información y
+porqué es necesario considerar la implementación de devops en su organización.  
 
 Al comienza de la era de la computación no había una separación entre las tareas de desarrollo y operación. 
 Las personas que tenían que desarrollar un programa debían saber también como operarla.  
@@ -135,19 +140,21 @@ Android Iphones Tablets contribuyen al aumento de la necesidad de operar de mane
 de datos nunca antes imaginados.
 Big Data, Virtualización, Cloud Computing etc.
 
+
+
 Realidad Actual 
 ===============
 
 Hoy en día la mayoría de las organizaciones dependen de las tecnología de información.
 Casi la mayoría de los compromisos que las compañías hacen con el mundo exterior, ya sea 
 relacionado con proyectos, operaciones, cumplimiento o reportes financieros, requieren de 
-TI. Aun así muchos directores de compañías aun piensan: "No somos M$ o Google. IT no es 
+TI. Aun así muchos gerentes de las empresas aun piensan: "No somos M$ o Google. IT no es 
 nuestro core, podemos subcontratar."
 
 Para la mayoría de las compañías. TI funciona como un sistema nervioso, pues existen una 
 gran cantidad de procesos críticos de negocio automatizado con IT generando que todas las
 decisiones de negocios resulten en al menos un cambio en TI. Aun así, el departamento de 
-informática a menudo se encuentra atascado ya sea con trabajos urgentes o no planificado
+informática a menudo se encuentra colapsado ya sea con trabajos urgentes o no planificado
 (Apagando incendios) coartando la habilidad de ejecutar proyectos desperdiciando muchas 
 horas.
 
@@ -159,11 +166,8 @@ Sin embargo existen algunas que se destacan por
 el eficiente uso de las tecnologías de información.
 
    
-
-
-
-High Performance
-=================
+High Performance Alto desempeño
+===============================
 ¿Que es una organización High Performance?
 
 
@@ -173,10 +177,9 @@ de manera rápida sin causar la interrupción de servicio. Loe ejemplo clásicos
 son grandes "WebOps" como Google, Amazon, Twitter. Las cuales se caracterízan por hacer múltiples puestas en 
 producción al día.
 
+Se espera de las organizaciones de TI que puedan responder de manera más rápida a las necesidades urgentes 
+del negocio mientras que se proporciona un servicio de TI estable, seguro, y predecible.
 
-IT organizations are expected to respond more quickly to
-urgent business needs while simultaneously providing
-stable, secure, and predictable IT service.
 
 Indicadores clave de performance de agilidad:
 	-Frecuencias de puestas en producción.
@@ -185,6 +188,7 @@ Indicadores clave de performance de agilidad:
 Indicadores clave de performance de confiabilidad (Reliability)
 	- Mean Time to Recover
 	- Tasa de fallas de cambio.
+
 	Quality.
 	Security.
 	Complexity.
@@ -195,6 +199,15 @@ Indicadores clave de performance de confiabilidad (Reliability)
 
 TODO: Investigar el devops survey 2014.
 
+
+
+- Competencia Innovación es clave. 
+- TI como competencia del Core del Negocio.
+
+		
+
+Problemas  típicos en el actual desempeño de las Organizaciones Tipos
+======================================================================
  However, the
 systems on which the business operates are typically
 fragile and hostile to change. Adopting Agile development
@@ -213,15 +226,6 @@ For the first time ever, by adopting DevOps practices, IT
 organizations can be simultaneously agile and reliable,
 thus fulfilling the promise of over 20 years of Agile and
 ITIL/ITSM.
-
-- Competencia Innovación es clave. 
-- TI como competencia del Core del Negocio.
-
-		
-
-Problemas  típicos en el actual desempeño de las Organizaciones Tipos
-======================================================================
-
 
 
 -Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
@@ -288,6 +292,7 @@ DEvops posibilita un flujo de de trabajo para operaciones TI.
 
 
 ¿Cual es la diferencia con ITIL o ITSM?
+========================================
 
 A pesar de que existe la percepción de que Devops se opone a ITIL, esto esta lejos de ser cierto.
 La verdad es que Devops no es un movimiento que haya surgido de la gran empresa. Y sus precursores
@@ -359,9 +364,6 @@ de tomar riesgos, e introducir fallas al sistema para incrementar la resiliencia
 
 
 
-
-
-High Performance
 Horses vs Unicorns.
 Factory, assembly line.
 
