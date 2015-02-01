@@ -35,7 +35,7 @@
 =================================================================================================================
 Presentación Webinar María Molero
 
-Hola, Muy Buenas noches y sean todos Bienvenidos,
+Hola, Muy Buenas tardes y sean todos Bienvenidos,
 Mi nombre es Maria Teresa Molero, soy ingeniero en Informatica con 7 años de experiencia en el rubro de las Tecnologías 
 de Información, Soporte, Desarrollo y Operaciones, y estaré presentandoles éste webinar.¿Que está pasando actualmente en 
 el área de Desarrollo y Operaciones en las empresas de Tecnologías de Información Latinoamericanas? Los equipos de desarrollo 
@@ -99,43 +99,10 @@ Motivación TODO (Buscar una motivación mas que tenga que ver con negocio)
 "Change is not necessary. survival is not mandatory."
 “El cambio no es necesario. La supervivencia no es obligatoria”. W.H. Demming
 
-
-
-Realidad Actual 
-===============
-
-Hoy en día la mayoría de las organizaciones dependen de las tecnología de información.
-Casi la mayoría de los compromisos que las compañías hacen con el mundo exterior, ya sea 
-relacionado con proyectos, operaciones, cumplimiento o reportes financieros, requieren de 
-TI. Aun así muchos directores de compañías aun piensan: "No somos M$ o Google. IT no es 
-nuestro core, podemos subcontratar."
-
-Para la mayoría de las compañías. TI funciona como un sistema nervioso, pues existen una 
-gran cantidad de procesos críticos de negocio automatizado con IT generando que todas las
-decisiones de negocios resulten en al menos un cambio en TI. Aun así, el departamento de 
-informática a menudo se encuentra atascado ya sea con trabajos urgentes o no planificado
-(Apagando incendios) coartando la habilidad de ejecutar proyectos desperdiciando muchas 
-horas.
-
-Hoy en 2014 en donde experimentamos aceleración de la ciencias y las tecnologías información. 
-Evolución TI, (Ver video Oracle)   
--Competencia Innovación es clave. 
-- TI como competencia del Core del Negocio.
-- Desafíos TI
-	Quality.
-	Security.
-	Complexity.
-	Data Volume.
-	High Availavility.
-	Escalability.
-	Flexibility.	
-
-
-Evolución de Operaciones TI. 
+Evolución de Operaciones TI. TODO: Modificar para hacerlo mas chori.
 =============================================
+TODO:Evolución TI, (Ver video Oracle).
 
-Por otro lado operations vienen de operaciones que corresponde al rol del equipo cuyo objetivo es explotar los recursos 
-informáticos de manera de mantener la continuidad de los servicios críticos de la organización.
 
 
 Para saber dónde vamos debemos saber desde dónde venimos, y así tener una perspectiva de la vertiginosa aceleración 
@@ -170,9 +137,60 @@ Android Iphones Tablets contribuyen al aumento de la necesidad de operar de mane
 de datos nunca antes imaginados.
 Big Data, Virtualización, Cloud Computing etc.
 
+Realidad Actual 
+===============
 
-Problemas 
--Tipos de trabajo TI.
+Hoy en día la mayoría de las organizaciones dependen de las tecnología de información.
+Casi la mayoría de los compromisos que las compañías hacen con el mundo exterior, ya sea 
+relacionado con proyectos, operaciones, cumplimiento o reportes financieros, requieren de 
+TI. Aun así muchos directores de compañías aun piensan: "No somos M$ o Google. IT no es 
+nuestro core, podemos subcontratar."
+
+Para la mayoría de las compañías. TI funciona como un sistema nervioso, pues existen una 
+gran cantidad de procesos críticos de negocio automatizado con IT generando que todas las
+decisiones de negocios resulten en al menos un cambio en TI. Aun así, el departamento de 
+informática a menudo se encuentra atascado ya sea con trabajos urgentes o no planificado
+(Apagando incendios) coartando la habilidad de ejecutar proyectos desperdiciando muchas 
+horas.
+
+
+Los desafíos que enfrenta nuestro país no son distintos a los desafíos que se enfrentan 
+muchas organizaciones alrededor del mundo.
+
+Sin embargo existen algunas que se destacan por 
+el eficiente uso de las tecnologías de información.
+
+Hoy en 2014 en donde experimentamos aceleración de la ciencias y las tecnologías información.   
+
+
+
+High Performance
+=================
+¿Que es una organización High Performance?
+
+	Quality.
+	Security.
+	Complexity.
+	Data Volume.
+	High Availavility.
+	Escalability.
+	Flexibility.
+
+TODO: Investigar el devops survey 2014.
+
+
+- Competencia Innovación es clave. 
+- TI como competencia del Core del Negocio.
+- Desafíos TI
+		
+
+
+
+
+
+Problemas  típicos en el actual desempeño de las Organizaciones Tipos
+======================================================================
+-Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
 - Devs vs Ops.
 - Downward Spiral.
 	- Operations
@@ -186,7 +204,7 @@ Problemas
 	- Deploy t increase.
 
 Ejemplos
-
+==========
 Cyber Monday’s Chile 
 
 
@@ -214,6 +232,9 @@ y el movimiento de administración ágil de sistemas (Patrick DeBois).
 • La disponibilidad masiva de tecnologías Cloud y PaaS ( Platform as a service). Por ejemplo AWS.
 
 
+TODO: Ajustar la parte de la etimología de devops 
+Por otro lado operations vienen de operaciones que corresponde al rol del equipo cuyo objetivo es explotar los recursos 
+informáticos de manera de mantener la continuidad de los servicios críticos de la organización.
 
 Cual es la diferencia con Agile?
 
@@ -227,6 +248,10 @@ The Three Ways
 
 El primer camino
 ================
+
+keys: Continuous Deployment. Deployment Pipeline.
+
+
 
 El primer camino se enfoca en la performance del sistema completo en vez de focalizarce en la performance de un determinado departamento,
 el cual puede ser tan grande como una división completa ejm: Desarrollo u Operaciones, o tan pequeña como un sólo trabajador Ejemplo: Desarrollador, Sys Admin.
@@ -255,6 +280,8 @@ de retroalimentación e internalizando el conocimiento donde sea necesario.
 
 El tercer camino
 ================
+keys: Kanban Kaizen.( Mejora Continua).
+
 El tercer camino busca crear una cultura que incentive los siguientes elementos: experimentación continua, tomar riesgos y aprender de las fallas; y 
 entender que la repetición y la práctica son los requisitos para la maestría.
 
@@ -272,20 +299,23 @@ de tomar riesgos, e introducir fallas al sistema para incrementar la resiliencia
 High Performance
 Horses vs Unicorns.
 Factory, assembly line.
-The Goal Phoenix Project.
-Soluciones
+
+
 Lean Startup (Enterprise, Manufaturing, etc).
-Kanban Kaizen.( Mejora Continua).
+
+Soluciones
+===========
 Devops Culture.
 Devops Proccesses.
 Devops Tools.
-Continuous Deployment.
-Deployment Pipeline.
+
 
 
 
 Conclusiones
 ============
+
+TODO:Ubicar The Goal, and The Phoenix Project.
 
 - Devops no es sólo acerca de opciones técnicas y herramientas; el éxito de su implementación depende en gran medida
 de comportamientos, la cultura y el ambiente de la organización.
@@ -297,5 +327,3 @@ donde los despliegues en producción significaban trabajar fin de semanas comple
 
 
 
-Los desafíos que enfrenta nuestro país no son distintos a los desafíos que se enfrentan muchas organizaciones alrededor del mundo.
-Sin embargo existen algunas organizaciones que se destacan por el eficiente uso de las tecnologías de información.
