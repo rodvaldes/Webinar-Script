@@ -161,6 +161,35 @@ informática a menudo se encuentra colapsado ya sea con trabajos urgentes o no p
 horas.
 
 
+And yet, the IT organization is often mired in urgent and unplanned work, starving their ability 
+to execute. Spending countless hours dealing with emergency outages and failures and laboring over 
+needless compliance projects, IT all too often gets stuck with damage control instead of deploying 
+features and changes, and helping the business win.
+
+According to analysts, global IT spending in 2010 was approximately $10 trillion. But nearly 70% of 
+IT projects fail, and nearly 50% of IT work is unplanned work or rework. If we conservatively estimate 
+that 20% of IT work is wasted, that’s $2 trillion of value each year that we’re letting slip through 
+our fingers.
+
+
+Human Costs
+===========
+Working in most IT organizations is often thankless and frustrating. People feel as if they’re trapped 
+in an ever-repeating horror movie, helpless to change the outcome The organization abdicates their responsibility 
+to ensure that IT is managed well, plunging the department into relentless intertribal warfare between development, 
+IT operations and information security. And of course, the auditors.
+
+What inevitably results is chronic underachievement. The life of an IT professional is often demoralizing and frustrating, 
+typically leading to feelings of powerlessness and rife with stress which seeps into every aspect of life. From stress-related 
+health problems, to social issues, to tension at home, it has become clear that the current state of the IT professional is not 
+only unhealthy, but unsustainable.
+
+As people, we’re wired to contribute and to feel like we’re actively making a difference. Yet, all too often when IT 
+professionals ask their organization for support, they’re met with “you don’t understand,” or worse, a barely masked, “you don’t matter.”
+
+As a human being, this is the worst response we could receive. Because the opposite of love isn’t hate — it’s apathy.
+
+
 Los desafíos que enfrenta nuestro país no son distintos a los desafíos que se enfrentan 
 muchas organizaciones alrededor del mundo.
 
@@ -209,7 +238,7 @@ de probabilidades de exceder su rentabilidad,cuota de mercado y metas de producc
 
 
 - Competencia Innovación es clave. 
-- TI como competencia del Core del Negocio.
+
 
 		
 
