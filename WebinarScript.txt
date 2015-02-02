@@ -34,6 +34,8 @@
 - ¿Que es Devops y de donde viene?
 - Conclusiones.
 - Q&A.
+
+
 =================================================================================================================
 Presentación Webinar María Molero
 
@@ -142,8 +144,8 @@ de datos nunca antes imaginados.Big Data, Virtualización, Cloud Computing etc.
 
 
 
-Realidad Actual 
-===============
+Impacto TI en el negocio
+========================
 
 Hoy en día la mayoría de las organizaciones dependen de las tecnología de información.
 Casi la mayoría de los compromisos que las compañías hacen con el mundo exterior, ya sea 
@@ -151,12 +153,26 @@ relacionado con proyectos, operaciones, cumplimiento o reportes financieros, req
 TI. Aun así muchos gerentes de las empresas aun piensan: "No somos M$ o Google. IT no es 
 nuestro core, podemos subcontratar."
 
+IT ha sito típicamente considerado como un centro de costo y hasta ahora no existía evidencia de que la inversión 
+en IT provea retornos significativos. Sin embargos segun el ultimo estudio del estado Devops 2014 de PuppetLabs, 
+se determinó que aquellas organizaciones con desempeño de High Performance tienes el doble de probabilidad de 
+exceder en rentabilidad, cuota de mercado, metas de productividad entregandoles una gran ventaja competitiva.
+
+
+
+Perspectiva de Operaciones
+===========================
+
 Para la mayoría de las compañías. TI funciona como un sistema nervioso, pues existen una 
 gran cantidad de procesos críticos de negocio automatizado con IT generando que todas las
-decisiones de negocios resulten en al menos un cambio en TI. Aun así, el departamento de 
-informática a menudo se encuentra colapsado ya sea con trabajos urgentes o no planificado
+decisiones de negocios resulten en al menos un cambio en TI. 
+
+
+
+Aun así, el departamento de informática a menudo se encuentra colapsado ya sea con trabajos urgentes o no planificado
 (Apagando incendios) coartando la habilidad de ejecutar proyectos desperdiciando muchas 
 horas.
+
 
 -Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
 - Devs vs Ops.
@@ -208,7 +224,7 @@ Cyber Monday’s Chile
 
 Human Costs
 ===========
-A menudo trabajar en organizaciones de TI es frfustrante. La gente se siente como si estuvieran atrapadas
+A menudo trabajar en organizaciones de TI es frustrante. La gente se siente como si estuvieran atrapadas
 en una pelicula de terror que se repite una y otra ves (Downward Spiral). La organización renuncia a su responsabilidad
 de operar TI de buena manera sometiendo a los departamentos en una constante guerra tribal entre desarrollo y 
 operaciones, infosec y los auditores.
@@ -253,8 +269,6 @@ Indicadores clave de performance de agilidad:
 Indicadores clave de performance de confiabilidad (Reliability)
 	- Mean Time to Recover
 	- Tasa de fallas de cambio.
-
-	
 
 TODO: Investigar el devops survey 2014.
 
