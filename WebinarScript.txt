@@ -39,11 +39,11 @@
 =================================================================================================================
 Presentación Webinar María Molero
 
-Hola, Muy Buenas tardes y sean todos Bienvenidos,
-Mi nombre es Maria Teresa Molero, soy ingeniero en Informatica con 7 años de experiencia en el rubro de las Tecnologías 
-de Información, Soporte, Desarrollo y Operaciones, y estaré presentandoles éste webinar.¿Que está pasando actualmente en 
-el área de Desarrollo y Operaciones en las empresas de Tecnologías de Información Latinoamericanas? Los equipos de desarrollo 
-están enfocados en cumplir los plazos de una carta Gantt, testear sus aplicaciones y subir los cambios a producción. 
+Hola, Muy Buenas tardes y sean todos Bienvenidos, Mi nombre es Maria Teresa Molero, soy Jefa de Desarrollo de Software en 
+Cybersyn. Y hoy estamos aqui para conversar respecto:
+
+¿Que está pasando actualmente en el área de Desarrollo y Operaciones en las empresas de Tecnologías de Información Latinoamericanas? 
+Los equipos de desarrollo están enfocados en cumplir los plazos de una carta Gantt, testear sus aplicaciones y subir los cambios a producción. 
 Y el equipo de Operaciones se enfoca en garantizar que el ambiente de producción esté funcionando al 100%.
 El equipo de Desarrollo y Operaciones usualmente no habla el mismo lenguaje. Cada área tiene una comprensión limitada de 
 lo que hace la otra, y salvo cuando hay contingencias, éstas áreas se comunican, y la mayoría de las veces es para culpar la 
@@ -56,13 +56,12 @@ Cybersyn, es una empresa de Servicios del área de TI que nace con el ideal de g
 fundamental de su Organización y así potenciar el desempeño de sus departamentos de TI mediante nuestros servicios de consultoría 
 y capacitación.
 
-A continuación, nuestro speaker, Rodrigo Valdés quien es co-fundador de Cybersyn, ingeniero civil en informática con 8 años de experiencia 
+A continuación, nuestro Co-fundador de Cybersyn Rodrigo Valdés , Ingeniero civil en informática con 8 años de experiencia 
 trabajando en el Rubro de las Tecnologías de Información, tanto en el sector público, como privado en diversos roles como Desarrollador de 
 Software en Dybox y Chilecompra, Analista de Soporte Técnico en el Global Customer Support Solaris OS en Oracle, Analista de soporte técnico 
 Oracle Session Border Controller (Acme packet).
 
-El les explicará como cambiar este paradigma con DevOps y darle solución de una vez por todas a éste problema.
-DevOps es urgente e importante.
+El les explicará la importancia de un departamento TI de High Performance y como DevOps puede ayudar a conseguir este importante objetivo.
 
 La presentación está siendo grabada y podrán consultarla cada vez que lo deseen a través de nuestro canal de Youtube.
 A medida que el webinar avance, y esto es para la transmisión en vivo, es probable que ustedes deseen hacer preguntas, les comento que a medida 
