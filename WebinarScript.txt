@@ -143,14 +143,17 @@ de datos nunca antes imaginados.Big Data, Virtualización, Cloud Computing etc.
 
 
 
-Impacto TI en el negocio
-========================
+Impacto TI (Departamento de Informática) en el negocio
+======================================================
 
 Hoy en día la mayoría de las organizaciones dependen de las tecnología de información.
 Casi la mayoría de los compromisos que las compañías hacen con el mundo exterior, ya sea 
 relacionado con proyectos, operaciones, cumplimiento o reportes financieros, requieren de 
 TI. Aun así muchos gerentes de las empresas aun piensan: "No somos M$ o Google. IT no es 
 nuestro core, podemos subcontratar."
+
+Todas las empresas hoy son empresas de software dado que el 95% depende de cierta manera en TI para ejecutar algún 
+plan.
 
 IT ha sito típicamente considerado como un centro de costo y hasta ahora no existía evidencia de que la inversión 
 en IT provea retornos significativos. Sin embargos segun el ultimo estudio del estado Devops 2014 de PuppetLabs, 
@@ -159,22 +162,70 @@ exceder en rentabilidad, cuota de mercado, metas de productividad entregandoles 
 
 
 
-Perspectiva de Operaciones
-===========================
+Perspectiva de Departamento TI (Operaciones)
+=============================================
 
 Para la mayoría de las compañías. TI funciona como un sistema nervioso, pues existen una 
 gran cantidad de procesos críticos de negocio automatizado con IT generando que todas las
 decisiones de negocios resulten en al menos un cambio en TI. 
 
 
+Objetivos TI
+============
 
-Aun así, el departamento de informática a menudo se encuentra colapsado ya sea con trabajos urgentes o no planificado
-(Apagando incendios) coartando la habilidad de ejecutar proyectos desperdiciando muchas 
-horas.
+Explotar y operar los recursos informáticos de la organización de manera:
+- Confiable.
+- Seguridad.
+- Estabilidad 
+- Disponibilidad
 
 
--Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
-- Devs vs Ops.
+
+
+Aun así, el departamento de informática a menudo se encuentra colapsado ya sea con trabajos urgentes 
+o no planificado(Apagando incendios) coartando la habilidad de ejecutar proyectos desperdiciando muchas horas.
+
+
+
+However, the systems on which the business operates are typically
+fragile and hostile to change. Adopting Agile development
+processes without improving operational reliability
+or communication between developers and operations
+only makes this problem worse. The increased frequency
+of releases from development creates even more of a
+burden on an already strained IT organization. Similarly,
+adopting rigid ITIL/ITSM standards without addressing
+development issues and improving communication channels
+results in an inflexible IT organization that simply
+cannot respond to business needs quickly enough.
+DevOps picks up where Agile methodology and IT standards
+left off.
+For the first time ever, by adopting DevOps practices, IT
+organizations can be simultaneously agile and reliable,
+thus fulfilling the promise of over 20 years of Agile and
+ITIL/ITSM.
+
+
+Devs vs Ops
+===========
+
+El proceso de desarrollo de software estaba totalmente desconectado Operaciones. 
+Sin considerar aspectos fundamentales como:
+
+- Provisioning
+- Instalación
+- Actualización
+- Mantenimiento
+- Backup/Restore
+- Escalabilidad.
+
+
+	-Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
+
+
+	
+	
+
 - Downward Spiral.
 	- Operations
 	- Fragile Artifacts
@@ -198,24 +249,7 @@ that 20% of IT work is wasted, that’s $2 trillion of value each year that we�
 our fingers.
 
 
- However, the
-systems on which the business operates are typically
-fragile and hostile to change. Adopting Agile development
-processes without improving operational reliability
-or communication between developers and operations
-only makes this problem worse. The increased frequency
-of releases from development creates even more of a
-burden on an already strained IT organization. Similarly,
-adopting rigid ITIL/ITSM standards without addressing
-development issues and improving communication channels
-results in an inflexible IT organization that simply
-cannot respond to business needs quickly enough.
-DevOps picks up where Agile methodology and IT standards
-left off.
-For the first time ever, by adopting DevOps practices, IT
-organizations can be simultaneously agile and reliable,
-thus fulfilling the promise of over 20 years of Agile and
-ITIL/ITSM.
+ 
 
 Ejemplos
 ==========
@@ -282,10 +316,6 @@ de probabilidades de exceder su rentabilidad,cuota de mercado y metas de producc
 
 
 		
-
-
-
-
 ¿Que es Devops y de donde viene?
 ================================
 
