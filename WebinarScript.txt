@@ -7,6 +7,17 @@
 - Agenda
 - Evolución TI, (Ver video Oracle)
 - Realidad Actual 
+- Downward Spiral.
+	- Operations
+	- Fragile Artifacts
+	- Mision Critical.
+	- Shadow IT
+	- Deuda Tecnica.
+	- bussines Commitments.
+	- Developer Developing just features.
+	- Technical Debt.
+	- Deploy t increase.
+
 - Competencia Innovación es clave. 
 - TI como competencia del Core del Negocio.
 - Desafios TI
@@ -18,16 +29,6 @@
 	Escalability.
 	Flexibility.	
 
-- Downward Spiral.
-	- Operations
-	- Fragile Artifacts
-	- Mision Critical.
-	- Shadow IT
-	- Deuda Tecnica.
-	- bussines Commitments.
-	- Developer Developing just features.
-	- Technical Debt.
-	- Deploy t increase.
 
 
 - ¿Que es Devops y de donde viene?
@@ -80,11 +81,10 @@ Cybersyn ha echo un importante trabajo a la hora de estudiar y aplicar las carac
 
 Nuestro objetivo es ayudar a las empresas a habilitar los departamentos de Tecnología de alto desempeño, generando ventajas competitivas para el negocio. 
 
-Agenda  (Overview) ( Sebe incluir una imagen de estructura del webinar)
+Agenda  (Overview) (Sebe incluir una imagen de estructura del webinar)
 =======
 
 En esta ocasión voy a hablar específicamente de Devops.
-
 Los temas que analizaremos durante la próxima media hora son los siguientes:
 
 Evolución de TI
@@ -107,8 +107,6 @@ Motivación TODO (Buscar una motivación mas que tenga que ver con negocio)
 Evolución de Operaciones TI
 ===========================
 
-
-TODO:Evolución TI, (Ver video Oracle).
 
 Cada 10 o 20 años la computación empresarial (Enterprise) experimenta grandes cambios arquitectónicos
 
@@ -160,6 +158,19 @@ informática a menudo se encuentra colapsado ya sea con trabajos urgentes o no p
 (Apagando incendios) coartando la habilidad de ejecutar proyectos desperdiciando muchas 
 horas.
 
+-Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
+- Devs vs Ops.
+- Downward Spiral.
+	- Operations
+	- Fragile Artifacts
+	- Mision Critical.
+	- Shadow IT
+	- Deuda Tecnica.
+	- bussines Commitments.
+	- Developer Developing just features.
+	- Technical Debt.
+	- Deploy t increase.
+
 
 And yet, the IT organization is often mired in urgent and unplanned work, starving their ability 
 to execute. Spending countless hours dealing with emergency outages and failures and laboring over 
@@ -172,29 +183,46 @@ that 20% of IT work is wasted, that’s $2 trillion of value each year that we�
 our fingers.
 
 
+ However, the
+systems on which the business operates are typically
+fragile and hostile to change. Adopting Agile development
+processes without improving operational reliability
+or communication between developers and operations
+only makes this problem worse. The increased frequency
+of releases from development creates even more of a
+burden on an already strained IT organization. Similarly,
+adopting rigid ITIL/ITSM standards without addressing
+development issues and improving communication channels
+results in an inflexible IT organization that simply
+cannot respond to business needs quickly enough.
+DevOps picks up where Agile methodology and IT standards
+left off.
+For the first time ever, by adopting DevOps practices, IT
+organizations can be simultaneously agile and reliable,
+thus fulfilling the promise of over 20 years of Agile and
+ITIL/ITSM.
+
+Ejemplos
+==========
+Cyber Monday’s Chile 
+
 Human Costs
 ===========
-Working in most IT organizations is often thankless and frustrating. People feel as if they’re trapped 
-in an ever-repeating horror movie, helpless to change the outcome The organization abdicates their responsibility 
-to ensure that IT is managed well, plunging the department into relentless intertribal warfare between development, 
-IT operations and information security. And of course, the auditors.
+A menudo trabajar en organizaciones de TI es frfustrante. La gente se siente como si estuvieran atrapadas
+en una pelicula de terror que se repite una y otra ves (Downward Spiral). La organización renuncia a su responsabilidad
+de operar TI de buena manera sometiendo a los departamentos en una constante guerra tribal entre desarrollo y 
+operaciones, infosec y los auditores.
 
-What inevitably results is chronic underachievement. The life of an IT professional is often demoralizing and frustrating, 
-typically leading to feelings of powerlessness and rife with stress which seeps into every aspect of life. From stress-related 
-health problems, to social issues, to tension at home, it has become clear that the current state of the IT professional is not 
-only unhealthy, but unsustainable.
-
-As people, we’re wired to contribute and to feel like we’re actively making a difference. Yet, all too often when IT 
-professionals ask their organization for support, they’re met with “you don’t understand,” or worse, a barely masked, “you don’t matter.”
-
-As a human being, this is the worst response we could receive. Because the opposite of love isn’t hate — it’s apathy.
-
+Un resultado inevitable es el fracaso crónico. La vida de un profesional de TI es a menudo desmoralizante y frustrante
+que generalmente desencadenan sentimientos de falta de empoderamiento acompañado con stress lo que permea otros aspectos
+de la vida.Problemas de salud relativos al stress, problemas sociales, tensión familiar, por lo tanto se hace evidente que 
+el actual trabajo en TI no solo es nó saludable, además es insostenible.
 
 Los desafíos que enfrenta nuestro país no son distintos a los desafíos que se enfrentan 
 muchas organizaciones alrededor del mundo.
 
-Sin embargo existen algunas que se destacan por 
-el eficiente uso de las tecnologías de información.
+Sin embargo existen algunas que se destacan por el eficiente uso de las tecnologías de información. A las cuales denominaremos
+organizaciones de TI de Alto Desempeño (High Performance).
 
    
 High Performance Alto desempeño
@@ -242,44 +270,6 @@ de probabilidades de exceder su rentabilidad,cuota de mercado y metas de producc
 
 		
 
-Problema típicos en el actual desempeño de las Organizaciones Tipos
-======================================================================
- However, the
-systems on which the business operates are typically
-fragile and hostile to change. Adopting Agile development
-processes without improving operational reliability
-or communication between developers and operations
-only makes this problem worse. The increased frequency
-of releases from development creates even more of a
-burden on an already strained IT organization. Similarly,
-adopting rigid ITIL/ITSM standards without addressing
-development issues and improving communication channels
-results in an inflexible IT organization that simply
-cannot respond to business needs quickly enough.
-DevOps picks up where Agile methodology and IT standards
-left off.
-For the first time ever, by adopting DevOps practices, IT
-organizations can be simultaneously agile and reliable,
-thus fulfilling the promise of over 20 years of Agile and
-ITIL/ITSM.
-
-
--Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
-- Devs vs Ops.
-- Downward Spiral.
-	- Operations
-	- Fragile Artifacts
-	- Mision Critical.
-	- Shadow IT
-	- Deuda Tecnica.
-	- bussines Commitments.
-	- Developer Developing just features.
-	- Technical Debt.
-	- Deploy t increase.
-
-Ejemplos
-==========
-Cyber Monday’s Chile 
 
 
 
