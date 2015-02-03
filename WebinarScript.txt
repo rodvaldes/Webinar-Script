@@ -71,24 +71,26 @@ Webinar
 Breve presentación del Speaker
 ==============================
 
-Hola muy buenas tardes mi nombre es Rodrigo Valdés soy co-fundador de Cybersyn. Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas 
+Hola muy buenas tardes mi nombre es Rodrigo Valdés Ingeniero Civil Informático, soy co-fundador de Cybersyn. Agradezco su presencia y bueno dejenme +
+contarles un poco de mi experiencia.Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas 
 áreas de TI como, Desarrollo de Software (En donde aprendí Metodologías ágiles), Diseño de arquitecturas enterprise() y actualmente y por mas de 5 años he trabajado en 
 el Global Support Center de Oracle dando soporte de clase mundial en SO Solaris y actualmente en dispositivos de comunicación Oracle Acme Packet.
 
 
 Siempre me ha impresionado la evolución de las TI, y esta combinación única de experiencias me han echo reflexionar profundamente respecto 
-al desempeño de los departamentos de informatica. El trabajo en soporte para una empresa global me da la posibilidad de interactuar con administradores
-de sistemas en todo el mundo.
+al desempeño de los departamentos de informática y en su posicionamiento y valor dentro de una organización. 
 
 Una de las principales reflexiones es que el nivel de departamentos de informática para lidiar con los cambios y la operación de tecnología con el objetivo
 de entregar el máximo valor al negocio parecen siempre objetivos muy esquivos. Y esta es una realidad tanto local como global.
  
-Para que hablar de los niveles de estres a los que se ven sometidos los trabajadores de TI.
+Para que hablar de los niveles de estrés a los que se ven sometidos los trabajadores de TI.
 
 Sin embargo han surgido ciertas empresas que en un corto periodo de tiempo han dominado el mundo de los negocios redibujando completamente el panorama. 
-Estas empresas comparten una característica en común y es que poseen departamentos de TI de Alto Desempeño (High Performance TI)considerados como core de negocio 
+Estas empresas comparten una característica en común y es que poseen departamentos de TI de Alto Desempeño (High Performance TI) y estos son 
+considerados como core de negocio 
 
-Buscando la  respuesta a la siguiente interrogante: ¿De que manera se puede obtener el mayor rendimiento de nuestros equipos TI?.
+Buscando la  respuesta a la siguiente interrogante: ¿De que manera se puede convertir un departamento de informática normal en uno de Alto Rendimiento?.
+Todo esto mejorando también el entorno de trabajo.
  
 Cybersyn ha echo un importante trabajo a la hora de estudiar, entender y aplicar las características que diferencian a las organizaciones de TI High Performance (Alto desempeño). 
 Nuestro objetivo es ayudar a las empresas a habilitar los departamentos de Tecnología de alto desempeño, generando ventajas competitivas para el negocio. 
@@ -99,6 +101,7 @@ Agenda  (Overview) (Sebe incluir una imagen de estructura del webinar)
 En esta ocasión voy a hablar específicamente de Devops.
 Los temas que analizaremos durante la próxima media hora son los siguientes:
 
+Importancia de Departamento de Informática en el negocio
 Evolución de TI
 Realidad actual de TI.
 High Performance.
