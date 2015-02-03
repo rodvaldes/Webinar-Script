@@ -81,13 +81,16 @@ al desempeño de los departamentos de informatica. El trabajo en soporte para un
 de sistemas en todo el mundo.
 
 Una de las principales reflexiones es que el nivel de departamentos de informática para lidiar con los cambios y la operación de tecnología con el objetivo
-de entregar el máximo valor al negocio parecen siempre objetivos muy esquivos.
+de entregar el máximo valor al negocio parecen siempre objetivos muy esquivos. Y esta es una realidad tanto local como global.
  
+Para que hablar de los niveles de estres a los que se ven sometidos los trabajadores de TI.
+
+Sin embargo han surgido ciertas empresas que en un corto periodo de tiempo han dominado el mundo de los negocios redibujando completamente el panorama. 
+Estas empresas comparten una característica en común y es que poseen departamentos de TI de Alto Desempeño (High Performance TI)considerados como core de negocio 
+
+Buscando la  respuesta a la siguiente interrogante: ¿De que manera se puede obtener el mayor rendimiento de nuestros equipos TI?.
  
-
-Entonces Cybersyn nace como respuesta a la siguiente interrogante: ¿ De que manera se puede obtener el mayor rendimiento de nuestros equipos TI?. Por lo tanto
-Cybersyn ha echo un importante trabajo a la hora de estudiar y aplicar las características que diferencian a las organizaciones de TI High Performance (Alto desempeño). 
-
+Cybersyn ha echo un importante trabajo a la hora de estudiar, entender y aplicar las características que diferencian a las organizaciones de TI High Performance (Alto desempeño). 
 Nuestro objetivo es ayudar a las empresas a habilitar los departamentos de Tecnología de alto desempeño, generando ventajas competitivas para el negocio. 
 
 Agenda  (Overview) (Sebe incluir una imagen de estructura del webinar)
