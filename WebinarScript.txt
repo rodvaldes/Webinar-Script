@@ -29,8 +29,6 @@
 	Escalability.
 	Flexibility.	
 
-
-
 - ¿Que es Devops y de donde viene?
 - Conclusiones.
 - Q&A.
@@ -73,9 +71,19 @@ Webinar
 Breve presentación del Speaker
 ==============================
 
-Soy Rodrigo Valdés co-fundador de Cybersyn. Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas áreas de las tecnologías
-de información. Desarrollo de Software, desde el caos total hasta el trabajo en entornos ágiles de desarrollo. Por otro lado el trabajo en soporte para 
-una empresa global me dio la posibilidad de entender que muchos de los problemas locales están presentes son transversales a nivel global. 
+Hola muy buenas tardes mi nombre es Rodrigo Valdés soy co-fundador de Cybersyn. Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas 
+áreas de TI como, Desarrollo de Software (En donde aprendí Metodologías ágiles), Diseño de arquitecturas enterprise() y actualmente y por mas de 5 años he trabajado en 
+el Global Support Center de Oracle dando soporte de clase mundial en SO Solaris y actualmente en dispositivos de comunicación Oracle Acme Packet.
+
+
+Siempre me ha impresionado la evolución de las TI, y esta combinación única de experiencias me han echo reflexionar profundamente respecto 
+al desempeño de los departamentos de informatica. El trabajo en soporte para una empresa global me da la posibilidad de interactuar con administradores
+de sistemas en todo el mundo.
+
+Una de las principales reflexiones es que el nivel de departamentos de informática para lidiar con los cambios y la operación de tecnología con el objetivo
+de entregar el máximo valor al negocio parecen siempre objetivos muy esquivos.
+ 
+ 
 
 Entonces Cybersyn nace como respuesta a la siguiente interrogante: ¿ De que manera se puede obtener el mayor rendimiento de nuestros equipos TI?. Por lo tanto
 Cybersyn ha echo un importante trabajo a la hora de estudiar y aplicar las características que diferencian a las organizaciones de TI High Performance (Alto desempeño). 
@@ -233,18 +241,9 @@ debe mantener la estabilidad del sistema.
 
 	-Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
 
-
-	
-	
-
-
-
-
-
- 
-
 Ejemplos
 ==========
+
 Cyber Monday’s Chile 
 
 Human Costs
@@ -306,8 +305,6 @@ de probabilidades de exceder su rentabilidad,cuota de mercado y metas de producc
 
 - Competencia Innovación es clave. 
 
-
-		
 ¿Que es Devops y de donde viene?
 ================================
 
