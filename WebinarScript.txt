@@ -105,6 +105,30 @@ Motivación TODO (Buscar una motivación mas que tenga que ver con negocio)
 "Si buscas resultados distintos no hagas siempre lo mismo" Albert Einstein.
 
 
+Importancia de Departamento de Informática en el negocio
+======================================================
+
+Hoy en día la mayoría de las organizaciones dependen de las tecnología de información.
+Casi la mayoría de los compromisos que las compañías hacen con el mundo exterior, ya sea 
+relacionado con proyectos, operaciones, cumplimiento o reportes financieros, requieren de 
+TI. Aun así muchos gerentes de las empresas aun piensan: "No somos M$ o Google. IT no es 
+nuestro core, podemos subcontratar."
+
+Todas las empresas hoy son empresas de software dado que el 95% depende de cierta manera en TI para ejecutar algún 
+plan.
+
+IT ha sito típicamente considerado como un centro de costo y hasta ahora no existía evidencia de que la inversión 
+en IT provea retornos significativos. Sin embargos según el ultimo estudio del estado Devops 2014 de PuppetLabs, 
+se determinó que aquellas organizaciones con alto desempeño tiene el doble de probabilidad de 
+exceder en rentabilidad, cuota de mercado, metas de productividad generando una gran ventaja competitiva.
+
+
+Aun así, el departamento de informática a menudo se encuentra colapsado ya sea con trabajos urgentes 
+o no planificado(Apagando incendios) coartando la habilidad de ejecutar proyectos desperdiciando muchas horas.
+
+
+
+
 Evolución de Operaciones TI
 ===========================
 
@@ -143,26 +167,10 @@ de datos nunca antes imaginados.Big Data, Virtualización, Cloud Computing etc.
 
 
 
-Impacto TI (Departamento de Informática) en el negocio
-======================================================
-
-Hoy en día la mayoría de las organizaciones dependen de las tecnología de información.
-Casi la mayoría de los compromisos que las compañías hacen con el mundo exterior, ya sea 
-relacionado con proyectos, operaciones, cumplimiento o reportes financieros, requieren de 
-TI. Aun así muchos gerentes de las empresas aun piensan: "No somos M$ o Google. IT no es 
-nuestro core, podemos subcontratar."
-
-Todas las empresas hoy son empresas de software dado que el 95% depende de cierta manera en TI para ejecutar algún 
-plan.
-
-IT ha sito típicamente considerado como un centro de costo y hasta ahora no existía evidencia de que la inversión 
-en IT provea retornos significativos. Sin embargos segun el ultimo estudio del estado Devops 2014 de PuppetLabs, 
-se determinó que aquellas organizaciones con desempeño de High Performance tienes el doble de probabilidad de 
-exceder en rentabilidad, cuota de mercado, metas de productividad entregandoles una gran ventaja competitiva.
 
 
 
-Perspectiva de Departamento TI (Operaciones)
+Perspectiva de Departamento TI 
 =============================================
 
 Para la mayoría de las compañías. TI funciona como un sistema nervioso, pues existen una 
@@ -180,10 +188,6 @@ Explotar y operar los recursos informáticos de la organización de manera:
 - Disponibilidad
 
 
-
-
-Aun así, el departamento de informática a menudo se encuentra colapsado ya sea con trabajos urgentes 
-o no planificado(Apagando incendios) coartando la habilidad de ejecutar proyectos desperdiciando muchas horas.
 
 
 
@@ -218,6 +222,10 @@ Sin considerar aspectos fundamentales como:
 - Mantenimiento
 - Backup/Restore
 - Escalabilidad.
+
+
+Mientras Desarrollo es medido la cantidad de funcionalidades puestas en producción, el equipo de operaciones
+debe mantener la estabilidad del sistema.
 
 
 	-Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
