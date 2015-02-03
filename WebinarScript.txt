@@ -71,8 +71,8 @@ Webinar
 Breve presentación del Speaker
 ==============================
 
-Hola muy buenas tardes mi nombre es Rodrigo Valdés Ingeniero Civil Informático, soy co-fundador de Cybersyn. Agradezco su presencia y bueno dejenme +
-contarles un poco de mi experiencia.Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas 
+Hola muy buenas tardes mi nombre es Rodrigo Valdés Ingeniero Civil Informático, soy co-fundador de Cybersyn. Agradezco su presencia y bueno dejenme 
+contarles un poco de mi experiencia. Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas 
 áreas de TI como, Desarrollo de Software (En donde aprendí Metodologías ágiles), Diseño de arquitecturas enterprise() y actualmente y por mas de 5 años he trabajado en 
 el Global Support Center de Oracle dando soporte de clase mundial en SO Solaris y actualmente en dispositivos de comunicación Oracle Acme Packet.
 
@@ -101,7 +101,7 @@ Agenda  (Overview) (Sebe incluir una imagen de estructura del webinar)
 En esta ocasión voy a hablar específicamente de Devops.
 Los temas que analizaremos durante la próxima media hora son los siguientes:
 
-Importancia de Departamento de Informática en el negocio
+Importancia de Departamento de Informática en el negocio.
 Evolución de TI
 Realidad actual de TI.
 High Performance.
@@ -120,36 +120,30 @@ Motivación TODO (Buscar una motivación mas que tenga que ver con negocio)
 
 
 Importancia de Departamento de Informática en el negocio
-======================================================
+=======================================================
 
-Hoy en día la mayoría de las organizaciones dependen de las tecnología de información.
+Hoy en día la mayoría de las organizaciones (95%) dependen de las tecnología de información.
 Casi la mayoría de los compromisos que las compañías hacen con el mundo exterior, ya sea 
 relacionado con proyectos, operaciones, cumplimiento o reportes financieros, requieren de 
 TI. Aun así muchos gerentes de las empresas aun piensan: "No somos M$ o Google. IT no es 
 nuestro core, podemos subcontratar."
-
-Todas las empresas hoy son empresas de software dado que el 95% depende de cierta manera en TI para ejecutar algún 
-plan.
 
 IT ha sito típicamente considerado como un centro de costo y hasta ahora no existía evidencia de que la inversión 
 en IT provea retornos significativos. Sin embargos según el ultimo estudio del estado Devops 2014 de PuppetLabs, 
 se determinó que aquellas organizaciones con alto desempeño tiene el doble de probabilidad de 
 exceder en rentabilidad, cuota de mercado, metas de productividad generando una gran ventaja competitiva.
 
-
 Aun así, el departamento de informática a menudo se encuentra colapsado ya sea con trabajos urgentes 
-o no planificado(Apagando incendios) coartando la habilidad de ejecutar proyectos desperdiciando muchas horas.
+o no planificado. Se ve limitada la habilidad de ejecutar proyectos. Pues se  desperdician muchos 
+recursos lidiando con caidas y fallas de sistemas. Es decir IT pasa mas tiempo haciendo control de 
+daños que preocuparse por generar cambios o agregar nuevas funcionalidades que aporten mayor valor 
+al negocio.
 
 
-And yet, the IT organization is often mired in urgent and unplanned work, starving their ability 
-to execute. Spending countless hours dealing with emergency outages and failures and laboring over 
-needless compliance projects, IT all too often gets stuck with damage control instead of deploying 
-features and changes, and helping the business win.
-
-According to analysts, global IT spending in 2010 was approximately $10 trillion. But nearly 70% of 
-IT projects fail, and nearly 50% of IT work is unplanned work or rework. If we conservatively estimate 
-that 20% of IT work is wasted, that’s $2 trillion of value each year that we’re letting slip through 
-our fingers.
+De acuerdo a los analistas, el gasto global de IT en 2010 fue de aproximadamento $10 trillion. Sin embargo
+el 70% de los proyectos IT fallaron, y el 50% del trabajo IT es trabajo no planeado o re-work. Es decir si
+hacemos una optimista estimación del porcentaje de TI desperdiciado es el 20% significa que estaríamos desperdiciando 
+$2 trillones de dolares. 
 
 
 Evolución de Operaciones TI
