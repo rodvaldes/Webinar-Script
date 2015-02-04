@@ -61,7 +61,7 @@ Oracle Session Border Controller (Acme packet).
 
 El les explicará la importancia de un departamento TI de High Performance y como DevOps puede ayudar a conseguir este importante objetivo.
 
-La presentación está siendo grabada y podrán consultarla cada vez que lo deseen a través de nuestro canal de Youtube.
+
 A medida que el webinar avance, y esto es para la transmisión en vivo, es probable que ustedes deseen hacer preguntas, les comento que a medida 
 que se les vayan ocurriendo ustedes podrán enviarlas, para que las podamos clasificar y para que nuestros presentadores las contesten al final de la exposición.
 
