@@ -40,7 +40,7 @@ Presentación Webinar María Molero
 Hola, Muy Buenas tardes y sean todos Bienvenidos, Mi nombre es Maria Teresa Molero, soy Jefa de Desarrollo de Software en 
 Cybersyn. Y hoy estamos aqui para conversar respecto:
 
-¿Que está pasando actualmente en el área de Desarrollo y Operaciones en las empresas de Tecnologías de Información Latinoamericanas? 
+¿Que está pasando actualmente en el área de Desarrollo y Operaciones en las empresas de Tecnologías de Información? 
 Los equipos de desarrollo están enfocados en cumplir los plazos de una carta Gantt, testear sus aplicaciones y subir los cambios a producción. 
 Y el equipo de Operaciones se enfoca en garantizar que el ambiente de producción esté funcionando al 100%.
 El equipo de Desarrollo y Operaciones usualmente no habla el mismo lenguaje. Cada área tiene una comprensión limitada de 
@@ -54,16 +54,13 @@ Cybersyn, es una empresa de Servicios del área de TI que nace con el ideal de g
 fundamental de su Organización y así potenciar el desempeño de sus departamentos de TI mediante nuestros servicios de consultoría 
 y capacitación.
 
-A continuación, nuestro Co-fundador de Cybersyn Rodrigo Valdés , Ingeniero civil en informática con 8 años de experiencia 
-trabajando en el Rubro de las Tecnologías de Información, tanto en el sector público, como privado en diversos roles como Desarrollador de 
-Software en Dybox y Chilecompra, Analista de Soporte Técnico en el Global Customer Support Solaris OS en Oracle, Analista de soporte técnico 
-Oracle Session Border Controller (Acme packet).
-
-El les explicará la importancia de un departamento TI de High Performance y como DevOps puede ayudar a conseguir este importante objetivo.
+A continuación, nuestro Co-fundador de Cybersyn Rodrigo Valdés. Les explicará la importancia de un departamento TI de High Performance 
+y como DevOps puede ayudar a conseguir este importante objetivo.
 
 
 A medida que el webinar avance, y esto es para la transmisión en vivo, es probable que ustedes deseen hacer preguntas, les comento que a medida 
-que se les vayan ocurriendo ustedes podrán enviarlas, para que las podamos clasificar y para que nuestros presentadores las contesten al final de la exposición.
+que se les vayan ocurriendo ustedes podrán enviarlas, para que las podamos clasificar y para que nuestros presentadores las contesten al final de 
+la exposición.
 
 Webinar 
 =======
@@ -72,8 +69,8 @@ Breve presentación del Speaker
 ==============================
 
 Hola muy buenas tardes mi nombre es Rodrigo Valdés Ingeniero Civil Informático, soy co-fundador de Cybersyn. Agradezco su presencia y bueno dejenme 
-contarles un poco de mi experiencia. Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas 
-áreas de TI como, Desarrollo de Software (En donde aprendí Metodologías ágiles), Diseño de arquitecturas enterprise() y actualmente y por mas de 5 años he trabajado en 
+contarles un poco de mi experiencia. Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas áreas de TI como, Desarrollo 
+de Software (En donde aprendí Metodologías ágiles), Diseño de arquitecturas enterprise() y actualmente y por mas de 5 años he trabajado en 
 el Global Support Center de Oracle dando soporte de clase mundial en SO Solaris y actualmente en dispositivos de comunicación Oracle Acme Packet.
 
 
