@@ -84,6 +84,8 @@ al desempeño de los departamentos de informática y en su posicionamiento y val
 - Bajo desempeño: Bajo desempeño para lidiar con los cambios y la operación de tecnología.
 Asi el objetivo de brindar el máximo valor al negocio parecen siempre cada vez mas inalcanzable. 
 
+- Incremento de exigencia y recursos cada vez más limitados.
+
 
 Y esta es una realidad tanto local como global.
  
@@ -117,8 +119,6 @@ Q&A
 Motivación TODO (Buscar una motivación mas que tenga que ver con negocio)
 ==========
 
-
-
 "Si buscas resultados distintos no hagas siempre lo mismo" Albert Einstein.
 
 
@@ -138,20 +138,30 @@ exceder en rentabilidad, cuota de mercado, metas de productividad generando una 
 
 Aun así, el departamento de informática a menudo se encuentra colapsado ya sea con trabajos urgentes 
 o no planificado. Se ve limitada la habilidad de ejecutar proyectos. Pues se  desperdician muchos 
-recursos lidiando con caidas y fallas de sistemas. Es decir IT pasa mas tiempo haciendo control de 
+recursos lidiando con caídas y fallas de sistemas. 
+
+Es decir IT pasa mas tiempo haciendo control de 
 daños que preocuparse por generar cambios o agregar nuevas funcionalidades que aporten mayor valor 
 al negocio.
-
 
 De acuerdo a los analistas, el gasto global de IT en 2010 fue de aproximadamento $10 trillion. Sin embargo
 el 70% de los proyectos IT fallaron, y el 50% del trabajo IT es trabajo no planeado o re-work. Es decir si
 hacemos una optimista estimación del porcentaje de TI desperdiciado es el 20% significa que estaríamos desperdiciando 
 $2 trillones de dolares. 
 
+Por otro lado, el mundo de los negocios ha cambiado radicalmente, y hoy en día la "estabilidad" del negocio no es nada 
+mas que un recuerdo. Dando paso a un entorno de incertidumbre extrema. 
+
+Ante ese escenario, la habilidad de la organización para adaptarse es fundamental. 
+
+La innovación es el motor que ayuda a sobrevivir. La innovación debe ser sustentable (bajo costo). Pero lograr esto 
+no es algo fácil, requiere de todo un cambio a nivel cultural, procesos y tecnología.
+
 
 Evolución de Operaciones TI
 ===========================
-
+Al comienzo de la era de la computación no había una separación entre las tareas de desarrollo y operación. 
+Las personas que tenían que desarrollar un programa debían saber también como operarla.
 
 Cada 10 o 20 años la computación empresarial (Enterprise) experimenta grandes cambios arquitectónicos
 
@@ -160,18 +170,9 @@ Generación 2 (1990): Arquitectura Cliente Servidor.
 Generación 3 (2000): Arquitectura en internet y los Thin Clients.
 Generación 4 (2010): Cloud Compiting, Big Data, IoT.
  
-Al comienza de la era de la computación no había una separación entre las tareas de desarrollo y operación. 
-Las personas que tenían que desarrollar un programa debían saber también como operarla.  
-En los 60 cuando surgen los "operadores de computadora”.
   
-Se hacía muy importante tener un equipo especializado en mantener funcionando los cada vez más complejas 
+En los 60 cuando surgen el concepto de "Administrador de Sistemas” ya que se hacía muy importante tener un equipo especializado en mantener funcionando los cada vez más complejas 
 infraestructuras de tecnologías de Información, dando paso a lo que hoy conocemos como el equipo de Operaciones.
-
-Internet en los 90 revolucionó el desarrollo de software asi como la manera de hacer negocios generando una 
-nueva economía electrónica globalizada. 
-
-La velocidad con que evolucionó la red en términos de usuarios generó un gran desafío tanto para desarrolladores 
-como para operaciones. 
 
 Por un lado Ingeniería de software debía encontrar la manera de sustituir las metodología de 
 desarrollo tradicionales para estar a la altura de los nuevos desafíos.
@@ -191,8 +192,8 @@ de datos nunca antes imaginados.Big Data, Virtualización, Cloud Computing etc.
 Panorama actual de los departamentos de Informática
 ====================================================
 
-Los sistemas en los cuales actualmente operan los negocios son típicamente frágiles y muy dificiles de cambiar. 
-La adopción de metodologías de desarrollo ágil sin una mejora en terminos de confiabilidad de operaciones de sistema
+Los sistemas en los cuales actualmente operan los negocios son típicamente frágiles y muy difíciles de cambiar. 
+La adopción de metodologías de desarrollo ágil sin una mejora en términos de confiabilidad de operaciones de sistema
 o la comunicación entre desarrolladores y administradores de sistema empeora las condiciones.
 
 Por otro lado y de igual modo, la adopción de metodología rígidas como ITIL/ITSM sin la mejora en los procesos de desarrollo 
@@ -200,7 +201,7 @@ de software ni en la comunicación de los equipos, el resultado es una organizac
 necesidades del negocio. 
 
 
-Caracterizacion del trabajo IT
+Caracterización del trabajo IT
 ===============================
 
 
@@ -209,19 +210,16 @@ Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
 ¿Cual es el problema?
 
 Circulo vicioso de TI (Downward Spiral).
-	- Operations
-	- Fragile Artifacts
-	- Mision Critical.
-	- Shadow IT
-	- Deuda Tecnica.
-	- Bussines Commitments.
-	- Developer Developing just features.
-	- Technical Debt.
-	- Deploy time increase.
 
+	- Operaciones manteniendo los denominados artefactos frágiles.
+	- No es poco común ver que los artefactos frágiles tienen forma app Mision Critical.
+	- Bussines Commitments hecho por gente que no necesariamente entienden lo que se requiere to get shit done.
+	- Developer Developing just features (Descuidando QA, y requerimientos no funcionales).
+	- Esto genera deuda tecnica Deuda Tecnica, acumulación de trabajo no planificado. 
+	- Aumentando el tiempo de puesta en producción. Lo que a menudo porvoca una falla en los compromisos adquiridos.Disminuyendo la confianza TI.
+	- Para recuperar la confianza se hacen nuevas promesas, sin embargo se ha puesto en producción un nuevo artefacto frágil.
 
-
-Desarrollo vs Operacioones
+Desarrollo vs Operaciones
 ===========================
 
 Objetivos TI
@@ -304,25 +302,26 @@ Indicadores clave de performance de confiabilidad (Reliability)
 	- Mean Time to Recover
 	- Tasa de fallas de cambio.
 
-TODO: Investigar el devops survey 2014.
-
 ¿Porqué TI de High Performance es algo que me debiese interesar?
 
 Una buena performance IT es una ventaja competitiva. Según la encuesta del estado de 
 DevOps 2014 aquellas empresas que poseían equipos TI de lato desempeño tuvieron el doble 
 de probabilidades de exceder su rentabilidad,cuota de mercado y metas de producción.
-
-
-- Competencia Innovación es clave. 
+ 
 
 ¿Que es Devops y de donde viene?
 ================================
 
-El término devops típicamente se refiere a un emergente movimiento profesional que 
+Devopop, es la union de las palabra Development (Desarrollo de software) y Ops de Operaciones. 
+
+No existe una definición formal pero podemos decir que se refiere a un emergente movimiento profesional que 
 aboga por una relación de trabajo colaborativa entre Desarrollo y Operaciones IT, lo 
 cual permite un flujo rápido de trabajo planeado (ejm. Tasa de despliegue superiores),
 y al mismo tiempo aumenta la confiabilidad, estabilidad, resiliencia y seguridad del 
 ambiente de producción.
+
+Devops es Cultura. Proccesses y Herramientas.
+
 
 Devops se origina mas o menos en el 2009 como la convergencia de varios movimientos
 paralelos y complementarios:
@@ -330,18 +329,14 @@ paralelos y complementarios:
 
 • La presentación de John Allspaw y Paul Hammond en la Velocity Conference "10 Deploys a Day".
 
-• El movimiento "Infraestructura como código" (Mark Burgessy Luke Keines), el movimiento "Agile Infraestructure" (Andrew Shafer), 
+• El movimiento "Infraestructura como código" (Luke Keines, Mark Burgessy), el movimiento "Agile Infraestructure" (Andrew Shafer), 
 y el movimiento de administración ágil de sistemas (Patrick DeBois).
   El movimiento "Lean Startup" de Eric Ries.
 • La integración continua. (Jez Humble).
 • La disponibilidad masiva de tecnologías Cloud y PaaS ( Platform as a service). Por ejemplo AWS.
 
 
-TODO: Ajustar la parte de la etimología de devops.
-Por otro lado operations vienen de operaciones que corresponde al rol del equipo cuyo objetivo es explotar los recursos 
-informáticos de manera de mantener la continuidad de los servicios críticos de la organización.
-
-Cual es la diferencia con Agile?
+Cual es la diferencia con Agile? (Como encaja en los esquemas actuales)
 ================================
 
 Uno de los principios de agile, es entregar software funcional en incrementos pequeños y más 
@@ -364,10 +359,10 @@ DEvops posibilita un flujo de de trabajo para operaciones TI.
 
 A pesar de que existe la percepción de que Devops se opone a ITIL, esto esta lejos de ser cierto.
 La verdad es que Devops no es un movimiento que haya surgido de la gran empresa. Y sus precursores
-no estaban al tanto o no tenían experiencia ITIL 
+no estaban al tanto o no tenían experiencia ITIL.
 
-ITIL describe los procesos fundamentales de Operaciones de IT que son necesarias para soportar un 
-flujo de trabajo al estilo Devops.
+Sin embargo ITIL describe de manera estandarizada procesos fundamentales de Operaciones de IT que 
+son necesarias para soportar un flujo de trabajo al estilo Devops. (Change Management, Configuration Management)
 
 El resultado de Agile es el input a Operaciones. Con el objetivo de acomodar el ritmo de operaciones
 a las nuevas exigencias, muchos de los procesos descritos en ITIL podran ser automatizados, específicamente
@@ -385,9 +380,6 @@ The Three Ways
 
 El primer camino
 ================
-
-keys: Continuous Deployment. Deployment Pipeline.
-
 
 
 El primer camino se enfoca en la performance del sistema completo en vez de focalizarce en la performance de un determinado departamento,
@@ -429,15 +421,7 @@ a salir de la zona de peligro cuando hayamos llegado muy lejos.
 El resultado del tercer camino consiste en la asignación de tiempo para la mejora en el trabajo diario, crear rituales que recompensen la voluntad del equipo 
 de tomar riesgos, e introducir fallas al sistema para incrementar la resiliencia.
 
-
-
-Soluciones
-===========
-Devops Culture.
-Devops Proccesses.
-Devops Tools.
-
-
+Deployment pipeline.
 
 
 Frase final
