@@ -103,14 +103,13 @@ Nuestro objetivo es ayudar a las empresas a habilitar los departamentos de Tecno
 Agenda  (Overview) (Sebe incluir una imagen de estructura del webinar)
 ======
 
-En esta ocasión voy a hablar específicamente de Devops.
-Los temas que analizaremos durante la próxima media hora son los siguientes:
+En esta presentación les conversaré de los los siguientes:
 
 Importancia de Departamento de Informática en el negocio.
 Evolución de TI
 Realidad actual de TI.
 High Performance.
-Que es Devops
+Que es Devops?
 Conclusiones.
 Q&A
 
@@ -118,8 +117,7 @@ Q&A
 Motivación TODO (Buscar una motivación mas que tenga que ver con negocio)
 ==========
 
-"Change is not necessary. survival is not mandatory."
-“El cambio no es necesario. La supervivencia no es obligatoria”. W.H. Demming
+
 
 "Si buscas resultados distintos no hagas siempre lo mismo" Albert Einstein.
 
@@ -440,6 +438,12 @@ Devops Proccesses.
 Devops Tools.
 
 
+
+
+Frase final
+===========
+"Change is not necessary. survival is not mandatory."
+“El cambio no es necesario. La supervivencia no es obligatoria”. W.H. Demming
 
 
 Conclusiones
