@@ -54,9 +54,8 @@ Cybersyn, es una empresa de Servicios del área de TI que nace con el ideal de g
 fundamental de su Organización y así potenciar el desempeño de sus departamentos de TI mediante nuestros servicios de consultoría 
 y capacitación.
 
-A continuación, nuestro Co-fundador de Cybersyn Rodrigo Valdés. Les explicará la importancia de un departamento TI de High Performance 
+A continuación,  Rodrigo Valdés co-fundador de Cybersyn, les explicará la importancia de un departamento TI de High Performance 
 y como DevOps puede ayudar a conseguir este importante objetivo.
-
 
 A medida que el webinar avance, y esto es para la transmisión en vivo, es probable que ustedes deseen hacer preguntas, les comento que a medida 
 que se les vayan ocurriendo ustedes podrán enviarlas, para que las podamos clasificar y para que nuestros presentadores las contesten al final de 
@@ -68,7 +67,8 @@ Webinar
 Breve presentación del Speaker
 ==============================
 
-Hola muy buenas tardes mi nombre es Rodrigo Valdés Ingeniero Civil Informático, soy co-fundador de Cybersyn. Agradezco su presencia y bueno dejenme 
+Hola muy buenas tardes mi nombre es Rodrigo Valdés Ingeniero Civil Informático, soy co-fundador de Cybersyn. Agradezco su presencia y junto 
+también con agradecer el apoyo de PuppetLabs empresa lider en automatización de Infraestructura (Puppet Enterprise), bueno dejenme 
 contarles un poco de mi experiencia. Durante el transcurso de mi carrera he tenido la posibilidad de trabajar en diversas áreas de TI como, Desarrollo 
 de Software (En donde aprendí Metodologías ágiles), Diseño de arquitecturas enterprise() y actualmente y por mas de 5 años he trabajado en 
 el Global Support Center de Oracle dando soporte de clase mundial en SO Solaris y actualmente en dispositivos de comunicación Oracle Acme Packet.
@@ -92,8 +92,10 @@ Todo esto mejorando también el entorno de trabajo.
 Cybersyn ha echo un importante trabajo a la hora de estudiar, entender y aplicar las características que diferencian a las organizaciones de TI High Performance (Alto desempeño). 
 Nuestro objetivo es ayudar a las empresas a habilitar los departamentos de Tecnología de alto desempeño, generando ventajas competitivas para el negocio. 
 
+3:40
+
 Agenda  (Overview) (Sebe incluir una imagen de estructura del webinar)
-=======
+======
 
 En esta ocasión voy a hablar específicamente de Devops.
 Los temas que analizaremos durante la próxima media hora son los siguientes:
@@ -168,7 +170,7 @@ La velocidad con que evolucionó la red en términos de usuarios generó un gran
 como para operaciones. 
 
 Por un lado Ingeniería de software debía encontrar la manera de sustituir las metodología de 
-desarrollo tradicionales para estar a la altura de los nuevos desafíos (Disponibilidad, Performance, Calidad, Seguridad,etc. 
+desarrollo tradicionales para estar a la altura de los nuevos desafíos.
 
 La implementación de agile  significó un sustantivo avance en desarrollo de software Incorporando conceptos como 
 Programación Orientada a Objetos,Test Driven Development, Design Patterns, Continuous Integration.
@@ -192,6 +194,11 @@ o la comunicación entre desarrolladores y administradores de sistema empeora la
 Por otro lado y de igual modo, la adopción de metodología rígidas como ITIL/ITSM sin la mejora en los procesos de desarrollo 
 de software ni en la comunicación de los equipos, el resultado es una organización de TI inflexible que no puede responder a las
 necesidades del negocio. 
+
+
+Caracterizacion del trabajo IT
+===============================
+
 
 Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
 
@@ -321,8 +328,7 @@ paralelos y complementarios:
 
 • El movimiento "Infraestructura como código" (Mark Burgessy Luke Keines), el movimiento "Agile Infraestructure" (Andrew Shafer), 
 y el movimiento de administración ágil de sistemas (Patrick DeBois).
-  
-• El movimiento "Lean Startup" de Eric Ries.
+  El movimiento "Lean Startup" de Eric Ries.
 • La integración continua. (Jez Humble).
 • La disponibilidad masiva de tecnologías Cloud y PaaS ( Platform as a service). Por ejemplo AWS.
 
