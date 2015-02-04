@@ -97,12 +97,15 @@ considerados como core de negocio
 Buscando la  respuesta a la siguiente interrogante: ¿De que manera se puede convertir un departamento de informática normal en uno de Alto Rendimiento?.
 Todo esto mejorando también el entorno de trabajo.
  
-Cybersyn ha echo un importante trabajo a la hora de estudiar, entender y aplicar las características que diferencian a las organizaciones de TI High Performance (Alto desempeño). 
-Nuestro objetivo es ayudar a las empresas a habilitar los departamentos de Tecnología de alto desempeño, generando ventajas competitivas para el negocio. 
+Nace cybersyn en donde hemos hecho un importante trabajo a la hora de estudiar, entender y aplicar las características que diferencian a las organizaciones 
+de TI High Performance (Alto desempeño). 
+
+Nuestro objetivo es ayudar a las empresas a habilitar sus departamentos de Tecnología para convertirlos en deptos de  alto desempeño, generando ventajas 
+competitivas para el negocio. 
 
 3:40
 
-Agenda  (Overview) (Sebe incluir una imagen de estructura del webinar)
+Agenda  
 ======
 
 En esta presentación les conversaré de los los siguientes:
@@ -127,7 +130,7 @@ Importancia de Departamento de Informática en el negocio
 
 Hoy en día la mayoría de las organizaciones (95%) dependen de las tecnología de información.
 Casi la mayoría de los compromisos que las compañías hacen con el mundo exterior, ya sea 
-relacionado con proyectos, operaciones, cumplimiento o reportes financieros, requieren de 
+relacionado con proyectos, operaciones, auditorí  y/o reportes financieros, requieren de 
 TI. Aun así muchos gerentes de las empresas aun piensan: "No somos M$ o Google. IT no es 
 nuestro core, podemos subcontratar."
 
@@ -145,7 +148,7 @@ daños que preocuparse por generar cambios o agregar nuevas funcionalidades que 
 al negocio.
 
 De acuerdo a los analistas, el gasto global de IT en 2010 fue de aproximadamento $10 trillion. Sin embargo
-el 70% de los proyectos IT fallaron, y el 50% del trabajo IT es trabajo no planeado o re-work. Es decir si
+el 70% de los proyectos IT fallaron, y el 50% del trabajo IT es trabajo no planeado o re-work. Si
 hacemos una optimista estimación del porcentaje de TI desperdiciado es el 20% significa que estaríamos desperdiciando 
 $2 trillones de dolares. 
 
@@ -160,6 +163,7 @@ no es algo fácil, requiere de todo un cambio a nivel cultural, procesos y tecno
 
 Evolución de Operaciones TI
 ===========================
+
 Al comienzo de la era de la computación no había una separación entre las tareas de desarrollo y operación. 
 Las personas que tenían que desarrollar un programa debían saber también como operarla.
 
@@ -168,7 +172,7 @@ Cada 10 o 20 años la computación empresarial (Enterprise) experimenta grandes 
 Generacion 1 (1980): Minicomputers, Mainframes PC'c. 
 Generación 2 (1990): Arquitectura Cliente Servidor.
 Generación 3 (2000): Arquitectura en internet y los Thin Clients.
-Generación 4 (2010): Cloud Compiting, Big Data, IoT.
+Generación 4 (2010): Cloud Computing, Big Data, IoT.
  
   
 En los 60 cuando surgen el concepto de "Administrador de Sistemas” ya que se hacía muy importante tener un equipo especializado en mantener funcionando los cada vez más complejas 
@@ -268,6 +272,8 @@ el actual trabajo en TI no solo es nó saludable, además es insostenible.
 
 Los desafíos que enfrenta nuestro país no son distintos a los desafíos que se enfrentan 
 muchas organizaciones alrededor del mundo.
+
+===========================
 
 Sin embargo existen algunas que se destacan por el eficiente uso de las tecnologías de información. A las cuales denominaremos
 organizaciones de TI de Alto Desempeño (High Performance).
