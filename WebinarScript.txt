@@ -164,11 +164,13 @@ En los 60 cuando surgen los "operadores de computadora”.
 Se hacía muy importante tener un equipo especializado en mantener funcionando los cada vez más complejas 
 infraestructuras de tecnologías de Información, dando paso a lo que hoy conocemos como el equipo de Operaciones.
 
-Internet en los 90 revolucionó tanto la tecnologías de comunicación como la manera de hacer negocios generando una 
+Internet en los 90 revolucionó el desarrollo de software asi como la manera de hacer negocios generando una 
 nueva economía electrónica globalizada. 
 
 La velocidad con que evolucionó la red en términos de usuarios generó un gran desafío tanto para desarrolladores 
-como para operaciones. Por un lado Ingeniería de software debía encontrar la manera de sustituir las metodología de 
+como para operaciones. 
+
+Por un lado Ingeniería de software debía encontrar la manera de sustituir las metodología de 
 desarrollo tradicionales para estar a la altura de los nuevos desafíos (Disponibilidad, Performance, Calidad, Seguridad,etc. 
 
 La implementación de agile  significó un sustantivo avance en desarrollo de software Incorporando conceptos como 
@@ -183,10 +185,6 @@ Android Iphones Tablets contribuyen al aumento de la necesidad de operar de mane
 de datos nunca antes imaginados.Big Data, Virtualización, Cloud Computing etc.
 
 
-
-
-
-
 Panorama actual de los departamentos de Informática
 ====================================================
 
@@ -198,22 +196,26 @@ Por otro lado y de igual modo, la adopción de metodología rígidas como ITIL/I
 de software ni en la comunicación de los equipos, el resultado es una organización de TI inflexible que no puede responder a las
 necesidades del negocio. 
 
+Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
 
-Downward Spiral.
+¿Cual es el problema?
+
+Circulo vicioso de TI (Downward Spiral).
 	- Operations
 	- Fragile Artifacts
 	- Mision Critical.
 	- Shadow IT
 	- Deuda Tecnica.
-	- bussines Commitments.
+	- Bussines Commitments.
 	- Developer Developing just features.
 	- Technical Debt.
-	- Deploy t increase.
+	- Deploy time increase.
 
 
 
-Devs vs Ops
-===========
+Desarrollo vs Operacioones
+===========================
+
 Objetivos TI
 ============
 
@@ -223,10 +225,8 @@ Explotar y operar los recursos informáticos de la organización de manera:
 - Estabilidad 
 - Disponibilidad
 
-
-El proceso de desarrollo de software estaba totalmente desconectado Operaciones. 
-Sin considerar aspectos fundamentales como:
-
+Tareas Rutinas
+==============
 - Provisioning
 - Instalación
 - Actualización
@@ -234,12 +234,14 @@ Sin considerar aspectos fundamentales como:
 - Backup/Restore
 - Escalabilidad.
 
+Objetivos Desarrollo 
+====================
+
+Desarrollar nuevas funcionalidades.
+El proceso de desarrollo de software estaba totalmente desconectado Operaciones. 
 
 Mientras Desarrollo es medido la cantidad de funcionalidades puestas en producción, el equipo de operaciones
 debe mantener la estabilidad del sistema.
-
-
-	-Tipos de trabajo TI (Externos, Internos, Cambios, Trabajo no planeado).
 
 Ejemplos
 ==========
@@ -328,11 +330,12 @@ y el movimiento de administración ágil de sistemas (Patrick DeBois).
 • La disponibilidad masiva de tecnologías Cloud y PaaS ( Platform as a service). Por ejemplo AWS.
 
 
-TODO: Ajustar la parte de la etimología de devops 
+TODO: Ajustar la parte de la etimología de devops.
 Por otro lado operations vienen de operaciones que corresponde al rol del equipo cuyo objetivo es explotar los recursos 
 informáticos de manera de mantener la continuidad de los servicios críticos de la organización.
 
 Cual es la diferencia con Agile?
+================================
 
 Uno de los principios de agile, es entregar software funcional en incrementos pequeños y más 
 frecuentes, a diferencia de los métodos tradicionales en como cascada en donde la puesta en 
@@ -369,7 +372,6 @@ detectando y corrigiendo incidentes cuando estos ocurren. Esto implica el uso de
 sus definicines de adminitración de diseños de servicios, y administración de incidentes y problemas.
 
   
-
 
 The Three Ways
 ===============
@@ -421,12 +423,6 @@ El resultado del tercer camino consiste en la asignación de tiempo para la mejo
 de tomar riesgos, e introducir fallas al sistema para incrementar la resiliencia.
 
 
-
-Horses vs Unicorns.
-Factory, assembly line.
-
-
-Lean Startup (Enterprise, Manufaturing, etc).
 
 Soluciones
 ===========
